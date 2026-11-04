@@ -1,0 +1,1201 @@
+﻿id_venta,fecha_venta,id_cliente,sucursal,ciudad,canal,id_producto,producto,categoria,cantidad,precio_unitario_gs,descuento_pct,costo_unitario_gs,importe_venta_gs,costo_total_gs,ganancia_gs
+V00001,2024-01-01,C0006,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.05,74000,627000,444000,183000
+V00002,2024-01-02,C0008,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.05,166000,465500,332000,133500
+V00003,2024-01-03,C0209,San Lorenzo,San Lorenzo,WhatsApp,OFI-003,Cuaderno universitario,Oficina,8,24000,0.10,11200,172800,89600,83200
+V00004,2024-01-04,C0198,Luque,Luque,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.00,205000,1120000,820000,300000
+V00005,2024-01-04,C0200,Luque,Luque,WhatsApp,HOG-002,Organizador multiuso,Hogar,8,64000,0.15,31500,435200,252000,183200
+V00006,2024-01-05,C0047,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-003,Cuaderno universitario,Oficina,8,24000,0.30,11200,134400,89600,44800
+V00007,2024-01-06,C0174,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,3,110000,0.10,74000,297000,222000,75000
+V00008,2024-01-07,C0209,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.05,55500,646000,444000,202000
+V00009,2024-01-08,C0064,Luque,Luque,Online,OFI-004,Carpeta archivadora,Oficina,7,19000,0.05,9000,126350,63000,63350
+V00010,2024-01-09,C0142,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.05,31500,486400,252000,234400
+V00011,2024-01-10,C0088,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.05,36500,129200,73000,56200
+V00012,2024-01-10,C0199,San Lorenzo,San Lorenzo,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.15,18500,30175,18500,11675
+V00013,2024-01-11,C0180,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.00,36500,136000,73000,63000
+V00014,2024-01-12,C0058,Luque,Luque,Online,OFI-001,Resma papel A4,Oficina,4,42000,0.15,25800,142800,103200,39600
+V00015,2024-01-13,C0024,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.10,123000,702000,492000,210000
+V00016,2024-01-14,C0139,Encarnación,Encarnación,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.10,74000,198000,148000,50000
+V00017,2024-01-15,C0200,Asunción Centro,Asunción,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.15,18500,150875,92500,58375
+V00018,2024-01-16,C0167,San Lorenzo,San Lorenzo,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.10,18500,159750,92500,67250
+V00019,2024-01-17,C0186,Luque,Luque,WhatsApp,TEC-004,Webcam HD,Tecnología,4,245000,0.15,166000,833000,664000,169000
+V00020,2024-01-17,C0023,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.10,74000,99000,74000,25000
+V00021,2024-01-18,C0045,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.00,74000,550000,370000,180000
+V00022,2024-01-19,C0035,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,5,280000,0.00,205000,1400000,1025000,375000
+V00023,2024-01-20,C0120,Asunción Centro,Asunción,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,5,68000,0.05,36500,323000,182500,140500
+V00024,2024-01-21,C0071,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.05,36500,129200,73000,56200
+V00025,2024-01-22,C0007,Luque,Luque,Online,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.10,123000,351000,246000,105000
+V00026,2024-01-23,C0177,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.15,36500,231200,146000,85200
+V00027,2024-01-23,C0082,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,4,24000,0.00,11200,96000,44800,51200
+V00028,2024-01-24,C0050,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.00,25800,168000,103200,64800
+V00029,2024-01-25,C0053,Luque,Luque,Online,OFI-001,Resma papel A4,Oficina,3,42000,0.10,25800,113400,77400,36000
+V00030,2024-01-26,C0113,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,6,280000,0.15,205000,1428000,1230000,198000
+V00031,2024-01-27,C0050,Asunción Centro,Asunción,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V00032,2024-01-28,C0150,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,4,19000,0.05,9000,72200,36000,36200
+V00033,2024-01-29,C0002,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.30,74000,616000,592000,24000
+V00034,2024-01-29,C0164,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.15,123000,828750,615000,213750
+V00035,2024-01-30,C0208,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.00,36500,408000,219000,189000
+V00036,2024-01-31,C0204,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.00,55500,85000,55500,29500
+V00037,2024-02-01,C0015,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.10,25800,302400,206400,96000
+V00038,2024-02-02,C0167,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.30,55500,178500,166500,12000
+V00039,2024-02-03,C0019,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,7,85000,0.15,55500,505750,388500,117250
+V00040,2024-02-04,C0120,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,5,245000,0.10,166000,1102500,830000,272500
+V00041,2024-02-04,C0153,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.00,55500,510000,333000,177000
+V00042,2024-02-05,C0067,Ciudad del Este,Ciudad del Este,Online,OFI-001,Resma papel A4,Oficina,8,42000,0.20,25800,268800,206400,62400
+V00043,2024-02-06,C0027,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.00,166000,245000,166000,79000
+V00044,2024-02-07,C0063,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.00,123000,1365000,861000,504000
+V00045,2024-02-08,C0040,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.15,55500,144500,111000,33500
+V00046,2024-02-09,C0119,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.00,55500,680000,444000,236000
+V00047,2024-02-10,C0206,San Lorenzo,San Lorenzo,WhatsApp,OFI-004,Carpeta archivadora,Oficina,5,19000,0.15,9000,80750,45000,35750
+V00048,2024-02-11,C0109,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V00049,2024-02-11,C0102,Luque,Luque,WhatsApp,TEC-004,Webcam HD,Tecnología,6,245000,0.10,166000,1323000,996000,327000
+V00050,2024-02-12,C0177,San Lorenzo,San Lorenzo,WhatsApp,HOG-002,Organizador multiuso,Hogar,3,64000,0.15,31500,163200,94500,68700
+V00051,2024-02-13,C0169,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.20,79000,500000,395000,105000
+V00052,2024-02-14,C0032,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,1,19000,0.10,9000,17100,9000,8100
+V00053,2024-02-15,C0203,Luque,Luque,WhatsApp,HOG-002,Organizador multiuso,Hogar,7,64000,0.15,31500,380800,220500,160300
+V00054,2024-02-16,C0055,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.00,36500,204000,109500,94500
+V00055,2024-02-17,C0018,Asunción Centro,Asunción,Online,OFI-001,Resma papel A4,Oficina,1,42000,0.20,25800,33600,25800,7800
+V00056,2024-02-17,C0109,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.30,123000,273000,246000,27000
+V00057,2024-02-18,C0056,Luque,Luque,WhatsApp,TEC-002,Teclado mecánico,Tecnología,8,280000,0.20,205000,1792000,1640000,152000
+V00058,2024-02-19,C0186,Asunción Centro,Asunción,Online,TEC-002,Teclado mecánico,Tecnología,3,280000,0.00,205000,840000,615000,225000
+V00059,2024-02-20,C0071,Luque,Luque,WhatsApp,OFI-001,Resma papel A4,Oficina,6,42000,0.10,25800,226800,154800,72000
+V00060,2024-02-21,C0012,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,5,280000,0.20,205000,1120000,1025000,95000
+V00061,2024-02-22,C0151,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,5,24000,0.00,11200,120000,56000,64000
+V00062,2024-02-23,C0069,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,3,42000,0.05,25800,119700,77400,42300
+V00063,2024-02-23,C0070,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,7,110000,0.00,74000,770000,518000,252000
+V00064,2024-02-24,C0029,San Lorenzo,San Lorenzo,WhatsApp,OFI-001,Resma papel A4,Oficina,5,42000,0.00,25800,210000,129000,81000
+V00065,2024-02-25,C0052,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,2,24000,0.10,11200,43200,22400,20800
+V00066,2024-02-26,C0198,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.15,79000,212500,158000,54500
+V00067,2024-02-27,C0039,Asunción Centro,Asunción,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.00,36500,68000,36500,31500
+V00068,2024-02-28,C0094,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.30,74000,77000,74000,3000
+V00069,2024-02-29,C0107,Encarnación,Encarnación,WhatsApp,TEC-004,Webcam HD,Tecnología,4,245000,0.00,166000,980000,664000,316000
+V00070,2024-03-01,C0149,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.00,18500,248500,129500,119000
+V00071,2024-03-01,C0179,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.20,11200,115200,67200,48000
+V00072,2024-03-02,C0112,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.05,18500,202350,111000,91350
+V00073,2024-03-03,C0119,Encarnación,Encarnación,WhatsApp,TEC-002,Teclado mecánico,Tecnología,1,280000,0.00,205000,280000,205000,75000
+V00074,2024-03-04,C0148,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-004,Webcam HD,Tecnología,2,245000,0.10,166000,441000,332000,109000
+V00075,2024-03-05,C0055,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,4,19000,0.05,9000,72200,36000,36200
+V00076,2024-03-06,C0203,Encarnación,Encarnación,Online,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.10,18500,31950,18500,13450
+V00077,2024-03-07,C0067,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.00,74000,550000,370000,180000
+V00078,2024-03-07,C0165,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.10,55500,612000,444000,168000
+V00079,2024-03-08,C0200,Luque,Luque,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.00,123000,390000,246000,144000
+V00080,2024-03-09,C0099,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.10,9000,102600,54000,48600
+V00081,2024-03-10,C0003,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.05,9000,36100,18000,18100
+V00082,2024-03-11,C0078,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,7,110000,0.00,74000,770000,518000,252000
+V00083,2024-03-12,C0038,Luque,Luque,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.05,18500,67450,37000,30450
+V00084,2024-03-13,C0088,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.15,36500,173400,109500,63900
+V00085,2024-03-13,C0009,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V00086,2024-03-14,C0178,Luque,Luque,WhatsApp,OFI-003,Cuaderno universitario,Oficina,1,24000,0.15,11200,20400,11200,9200
+V00087,2024-03-15,C0023,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,2,42000,0.10,25800,75600,51600,24000
+V00088,2024-03-16,C0159,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.20,55500,136000,111000,25000
+V00089,2024-03-17,C0129,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,8,245000,0.05,166000,1862000,1328000,534000
+V00090,2024-03-18,C0109,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.00,166000,735000,498000,237000
+V00091,2024-03-19,C0015,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.00,123000,585000,369000,216000
+V00092,2024-03-19,C0106,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,8,24000,0.15,11200,163200,89600,73600
+V00093,2024-03-20,C0124,Encarnación,Encarnación,Online,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.10,18500,159750,92500,67250
+V00094,2024-03-21,C0168,Encarnación,Encarnación,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.00,123000,585000,369000,216000
+V00095,2024-03-22,C0124,Asunción Centro,Asunción,Online,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.20,55500,408000,333000,75000
+V00096,2024-03-23,C0076,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.00,31500,64000,31500,32500
+V00097,2024-03-24,C0094,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.05,123000,741000,492000,249000
+V00098,2024-03-25,C0161,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.30,79000,262500,237000,25500
+V00099,2024-03-26,C0101,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.00,123000,975000,615000,360000
+V00100,2024-03-26,C0175,Luque,Luque,Tienda física,TEC-002,Teclado mecánico,Tecnología,6,280000,0.05,205000,1596000,1230000,366000
+V00101,2024-03-27,C0121,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,3,42000,0.20,25800,100800,77400,23400
+V00102,2024-03-28,C0127,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,2,280000,0.00,205000,560000,410000,150000
+V00103,2024-03-29,C0107,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.30,18500,99400,74000,25400
+V00104,2024-03-30,C0200,San Lorenzo,San Lorenzo,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.00,25800,168000,103200,64800
+V00105,2024-03-31,C0033,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.20,74000,528000,444000,84000
+V00106,2024-04-01,C0100,San Lorenzo,San Lorenzo,Online,OFI-003,Cuaderno universitario,Oficina,8,24000,0.00,11200,192000,89600,102400
+V00107,2024-04-01,C0170,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V00108,2024-04-02,C0029,Luque,Luque,WhatsApp,OFI-004,Carpeta archivadora,Oficina,2,19000,0.00,9000,38000,18000,20000
+V00109,2024-04-03,C0037,Encarnación,Encarnación,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.00,18500,248500,129500,119000
+V00110,2024-04-04,C0166,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.00,31500,256000,126000,130000
+V00111,2024-04-05,C0067,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,5,24000,0.00,11200,120000,56000,64000
+V00112,2024-04-06,C0151,Ciudad del Este,Ciudad del Este,Online,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.05,36500,64600,36500,28100
+V00113,2024-04-07,C0201,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.15,18500,150875,92500,58375
+V00114,2024-04-07,C0164,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.00,9000,38000,18000,20000
+V00115,2024-04-08,C0119,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.15,166000,624750,498000,126750
+V00116,2024-04-09,C0143,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.05,36500,193800,109500,84300
+V00117,2024-04-10,C0172,Asunción Centro,Asunción,WhatsApp,OFI-001,Resma papel A4,Oficina,5,42000,0.15,25800,178500,129000,49500
+V00118,2024-04-11,C0140,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.00,55500,85000,55500,29500
+V00119,2024-04-12,C0098,Luque,Luque,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.05,123000,370500,246000,124500
+V00120,2024-04-13,C0035,San Lorenzo,San Lorenzo,WhatsApp,TEC-002,Teclado mecánico,Tecnología,1,280000,0.10,205000,252000,205000,47000
+V00121,2024-04-13,C0027,Asunción Centro,Asunción,WhatsApp,HOG-002,Organizador multiuso,Hogar,4,64000,0.10,31500,230400,126000,104400
+V00122,2024-04-14,C0129,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.15,31500,217600,126000,91600
+V00123,2024-04-15,C0033,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.00,123000,195000,123000,72000
+V00124,2024-04-16,C0206,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.10,79000,900000,632000,268000
+V00125,2024-04-17,C0078,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.00,18500,177500,92500,85000
+V00126,2024-04-18,C0189,San Lorenzo,San Lorenzo,WhatsApp,HOG-002,Organizador multiuso,Hogar,3,64000,0.05,31500,182400,94500,87900
+V00127,2024-04-19,C0041,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,5,24000,0.00,11200,120000,56000,64000
+V00128,2024-04-20,C0203,San Lorenzo,San Lorenzo,Online,TEC-004,Webcam HD,Tecnología,5,245000,0.05,166000,1163750,830000,333750
+V00129,2024-04-20,C0206,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.00,18500,106500,55500,51000
+V00130,2024-04-21,C0079,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.20,9000,30400,18000,12400
+V00131,2024-04-22,C0057,Asunción Centro,Asunción,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.00,55500,680000,444000,236000
+V00132,2024-04-23,C0136,Encarnación,Encarnación,Online,TEC-004,Webcam HD,Tecnología,1,245000,0.20,166000,196000,166000,30000
+V00133,2024-04-24,C0121,Luque,Luque,Tienda física,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.15,74000,93500,74000,19500
+V00134,2024-04-25,C0012,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.20,123000,468000,369000,99000
+V00135,2024-04-26,C0109,San Lorenzo,San Lorenzo,Online,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V00136,2024-04-26,C0023,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.10,79000,225000,158000,67000
+V00137,2024-04-27,C0173,Luque,Luque,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.00,18500,106500,55500,51000
+V00138,2024-04-28,C0016,Luque,Luque,WhatsApp,OFI-001,Resma papel A4,Oficina,6,42000,0.00,25800,252000,154800,97200
+V00139,2024-04-29,C0169,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.20,36500,435200,292000,143200
+V00140,2024-04-30,C0069,San Lorenzo,San Lorenzo,Online,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.10,18500,127800,74000,53800
+V00141,2024-05-01,C0151,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.00,18500,35500,18500,17000
+V00142,2024-05-02,C0035,Ciudad del Este,Ciudad del Este,Online,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.00,123000,195000,123000,72000
+V00143,2024-05-02,C0125,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-004,Webcam HD,Tecnología,6,245000,0.05,166000,1396500,996000,400500
+V00144,2024-05-03,C0155,Luque,Luque,Online,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V00145,2024-05-04,C0049,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.10,18500,159750,92500,67250
+V00146,2024-05-05,C0069,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,7,110000,0.00,74000,770000,518000,252000
+V00147,2024-05-06,C0059,Asunción Centro,Asunción,WhatsApp,HOG-002,Organizador multiuso,Hogar,1,64000,0.30,31500,44800,31500,13300
+V00148,2024-05-07,C0075,Ciudad del Este,Ciudad del Este,Online,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.00,55500,85000,55500,29500
+V00149,2024-05-08,C0131,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.00,74000,660000,444000,216000
+V00150,2024-05-08,C0050,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,6,245000,0.05,166000,1396500,996000,400500
+V00151,2024-05-09,C0131,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.00,18500,35500,18500,17000
+V00152,2024-05-10,C0144,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,1,42000,0.20,25800,33600,25800,7800
+V00153,2024-05-11,C0180,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,5,64000,0.05,31500,304000,157500,146500
+V00154,2024-05-12,C0027,Asunción Centro,Asunción,Online,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V00155,2024-05-13,C0179,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.00,31500,64000,31500,32500
+V00156,2024-05-14,C0191,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,2,64000,0.00,31500,128000,63000,65000
+V00157,2024-05-15,C0053,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,7,280000,0.05,205000,1862000,1435000,427000
+V00158,2024-05-15,C0042,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.10,123000,526500,369000,157500
+V00159,2024-05-16,C0119,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.00,74000,220000,148000,72000
+V00160,2024-05-17,C0187,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,4,24000,0.10,11200,86400,44800,41600
+V00161,2024-05-18,C0114,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V00162,2024-05-19,C0201,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,4,245000,0.00,166000,980000,664000,316000
+V00163,2024-05-20,C0162,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.30,9000,26600,18000,8600
+V00164,2024-05-21,C0182,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,2,24000,0.00,11200,48000,22400,25600
+V00165,2024-05-21,C0087,San Lorenzo,San Lorenzo,Online,OFI-001,Resma papel A4,Oficina,8,42000,0.00,25800,336000,206400,129600
+V00166,2024-05-22,C0189,Luque,Luque,WhatsApp,TEC-004,Webcam HD,Tecnología,8,245000,0.10,166000,1764000,1328000,436000
+V00167,2024-05-23,C0005,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.00,74000,880000,592000,288000
+V00168,2024-05-24,C0167,Encarnación,Encarnación,WhatsApp,TEC-002,Teclado mecánico,Tecnología,6,280000,0.00,205000,1680000,1230000,450000
+V00169,2024-05-25,C0074,Asunción Centro,Asunción,Online,HOG-001,Lámpara de escritorio,Hogar,1,125000,0.15,79000,106250,79000,27250
+V00170,2024-05-26,C0039,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.10,9000,102600,54000,48600
+V00171,2024-05-27,C0117,San Lorenzo,San Lorenzo,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.00,123000,975000,615000,360000
+V00172,2024-05-27,C0124,Asunción Centro,Asunción,Online,HOG-002,Organizador multiuso,Hogar,2,64000,0.20,31500,102400,63000,39400
+V00173,2024-05-28,C0182,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.00,55500,85000,55500,29500
+V00174,2024-05-29,C0029,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.15,79000,318750,237000,81750
+V00175,2024-05-30,C0142,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V00176,2024-05-31,C0102,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.15,74000,561000,444000,117000
+V00177,2024-06-01,C0072,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.00,18500,71000,37000,34000
+V00178,2024-06-02,C0082,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V00179,2024-06-03,C0052,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,2,42000,0.00,25800,84000,51600,32400
+V00180,2024-06-03,C0061,Encarnación,Encarnación,WhatsApp,HOG-002,Organizador multiuso,Hogar,3,64000,0.00,31500,192000,94500,97500
+V00181,2024-06-04,C0192,Encarnación,Encarnación,Online,OFI-004,Carpeta archivadora,Oficina,5,19000,0.00,9000,95000,45000,50000
+V00182,2024-06-05,C0138,Encarnación,Encarnación,Online,HOG-001,Lámpara de escritorio,Hogar,1,125000,0.00,79000,125000,79000,46000
+V00183,2024-06-06,C0045,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,7,110000,0.05,74000,731500,518000,213500
+V00184,2024-06-07,C0152,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.05,79000,831250,553000,278250
+V00185,2024-06-08,C0177,San Lorenzo,San Lorenzo,WhatsApp,OFI-003,Cuaderno universitario,Oficina,6,24000,0.20,11200,115200,67200,48000
+V00186,2024-06-09,C0113,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.00,25800,252000,154800,97200
+V00187,2024-06-09,C0048,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.15,123000,1160250,861000,299250
+V00188,2024-06-10,C0051,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.10,79000,337500,237000,100500
+V00189,2024-06-11,C0172,San Lorenzo,San Lorenzo,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.00,79000,1000000,632000,368000
+V00190,2024-06-12,C0002,Luque,Luque,Online,TEC-002,Teclado mecánico,Tecnología,5,280000,0.00,205000,1400000,1025000,375000
+V00191,2024-06-13,C0180,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.00,9000,114000,54000,60000
+V00192,2024-06-14,C0179,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.15,18500,90525,55500,35025
+V00193,2024-06-15,C0001,Luque,Luque,WhatsApp,OFI-001,Resma papel A4,Oficina,7,42000,0.00,25800,294000,180600,113400
+V00194,2024-06-15,C0104,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.30,123000,546000,492000,54000
+V00195,2024-06-16,C0095,Encarnación,Encarnación,Online,TEC-004,Webcam HD,Tecnología,4,245000,0.05,166000,931000,664000,267000
+V00196,2024-06-17,C0134,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.15,79000,212500,158000,54500
+V00197,2024-06-18,C0178,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V00198,2024-06-19,C0156,Luque,Luque,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.00,123000,1170000,738000,432000
+V00199,2024-06-20,C0003,Encarnación,Encarnación,Online,HOG-002,Organizador multiuso,Hogar,7,64000,0.10,31500,403200,220500,182700
+V00200,2024-06-21,C0206,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.30,36500,380800,292000,88800
+V00201,2024-06-21,C0016,Encarnación,Encarnación,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.15,74000,93500,74000,19500
+V00202,2024-06-22,C0098,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,7,68000,0.10,36500,428400,255500,172900
+V00203,2024-06-23,C0037,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,4,24000,0.15,11200,81600,44800,36800
+V00204,2024-06-24,C0181,Encarnación,Encarnación,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.15,123000,331500,246000,85500
+V00205,2024-06-25,C0124,Encarnación,Encarnación,WhatsApp,OFI-003,Cuaderno universitario,Oficina,1,24000,0.05,11200,22800,11200,11600
+V00206,2024-06-26,C0081,Asunción Centro,Asunción,WhatsApp,OFI-003,Cuaderno universitario,Oficina,4,24000,0.05,11200,91200,44800,46400
+V00207,2024-06-27,C0090,Ciudad del Este,Ciudad del Este,Online,OFI-001,Resma papel A4,Oficina,7,42000,0.00,25800,294000,180600,113400
+V00208,2024-06-28,C0044,San Lorenzo,San Lorenzo,Online,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.15,36500,57800,36500,21300
+V00209,2024-06-28,C0052,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00210,2024-06-29,C0047,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,6,245000,0.00,166000,1470000,996000,474000
+V00211,2024-06-30,C0043,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.00,18500,284000,148000,136000
+V00212,2024-07-01,C0136,San Lorenzo,San Lorenzo,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.00,123000,585000,369000,216000
+V00213,2024-07-02,C0062,Asunción Centro,Asunción,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.30,123000,1092000,984000,108000
+V00214,2024-07-03,C0018,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.20,18500,198800,129500,69300
+V00215,2024-07-04,C0006,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.20,36500,163200,109500,53700
+V00216,2024-07-04,C0122,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.05,79000,831250,553000,278250
+V00217,2024-07-05,C0133,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.00,79000,375000,237000,138000
+V00218,2024-07-06,C0136,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.00,74000,660000,444000,216000
+V00219,2024-07-07,C0132,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.00,31500,256000,126000,130000
+V00220,2024-07-08,C0197,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V00221,2024-07-09,C0201,San Lorenzo,San Lorenzo,WhatsApp,OFI-003,Cuaderno universitario,Oficina,7,24000,0.15,11200,142800,78400,64400
+V00222,2024-07-10,C0043,Luque,Luque,Online,TEC-002,Teclado mecánico,Tecnología,6,280000,0.15,205000,1428000,1230000,198000
+V00223,2024-07-10,C0050,Ciudad del Este,Ciudad del Este,Online,TEC-002,Teclado mecánico,Tecnología,6,280000,0.05,205000,1596000,1230000,366000
+V00224,2024-07-11,C0070,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,3,280000,0.05,205000,798000,615000,183000
+V00225,2024-07-12,C0052,Luque,Luque,Online,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.00,18500,71000,37000,34000
+V00226,2024-07-13,C0117,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,1,42000,0.20,25800,33600,25800,7800
+V00227,2024-07-14,C0121,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,8,24000,0.10,11200,172800,89600,83200
+V00228,2024-07-15,C0102,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.15,123000,663000,492000,171000
+V00229,2024-07-16,C0160,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.00,31500,448000,220500,227500
+V00230,2024-07-16,C0002,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,2,24000,0.00,11200,48000,22400,25600
+V00231,2024-07-17,C0208,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,1,24000,0.00,11200,24000,11200,12800
+V00232,2024-07-18,C0110,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.15,36500,173400,109500,63900
+V00233,2024-07-19,C0185,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,7,85000,0.00,55500,595000,388500,206500
+V00234,2024-07-20,C0086,Luque,Luque,Tienda física,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.00,74000,550000,370000,180000
+V00235,2024-07-21,C0191,Ciudad del Este,Ciudad del Este,Online,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.00,55500,255000,166500,88500
+V00236,2024-07-22,C0076,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.20,123000,1248000,984000,264000
+V00237,2024-07-23,C0147,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.00,55500,680000,444000,236000
+V00238,2024-07-23,C0190,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,3,24000,0.00,11200,72000,33600,38400
+V00239,2024-07-24,C0128,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.00,123000,1170000,738000,432000
+V00240,2024-07-25,C0028,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.20,79000,500000,395000,105000
+V00241,2024-07-26,C0072,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.00,9000,57000,27000,30000
+V00242,2024-07-27,C0022,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,5,280000,0.00,205000,1400000,1025000,375000
+V00243,2024-07-28,C0024,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.10,25800,226800,154800,72000
+V00244,2024-07-29,C0058,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.15,36500,115600,73000,42600
+V00245,2024-07-29,C0121,San Lorenzo,San Lorenzo,Online,OFI-001,Resma papel A4,Oficina,5,42000,0.00,25800,210000,129000,81000
+V00246,2024-07-30,C0039,Asunción Centro,Asunción,Online,OFI-003,Cuaderno universitario,Oficina,4,24000,0.00,11200,96000,44800,51200
+V00247,2024-07-31,C0093,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-002,Teclado mecánico,Tecnología,4,280000,0.00,205000,1120000,820000,300000
+V00248,2024-08-01,C0027,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.00,31500,448000,220500,227500
+V00249,2024-08-02,C0068,Asunción Centro,Asunción,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.15,25800,214200,154800,59400
+V00250,2024-08-03,C0027,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,3,64000,0.15,31500,163200,94500,68700
+V00251,2024-08-04,C0172,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.00,55500,510000,333000,177000
+V00252,2024-08-04,C0115,Ciudad del Este,Ciudad del Este,Online,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.10,74000,396000,296000,100000
+V00253,2024-08-05,C0203,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.30,9000,26600,18000,8600
+V00254,2024-08-06,C0009,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-003,Cuaderno universitario,Oficina,7,24000,0.00,11200,168000,78400,89600
+V00255,2024-08-07,C0007,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,7,68000,0.30,36500,333200,255500,77700
+V00256,2024-08-08,C0119,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.00,36500,272000,146000,126000
+V00257,2024-08-09,C0174,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.00,36500,136000,73000,63000
+V00258,2024-08-10,C0022,San Lorenzo,San Lorenzo,WhatsApp,TEC-002,Teclado mecánico,Tecnología,1,280000,0.10,205000,252000,205000,47000
+V00259,2024-08-10,C0081,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,5,64000,0.10,31500,288000,157500,130500
+V00260,2024-08-11,C0127,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.10,166000,220500,166000,54500
+V00261,2024-08-12,C0143,Asunción Centro,Asunción,Online,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.30,55500,476000,444000,32000
+V00262,2024-08-13,C0034,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.05,18500,67450,37000,30450
+V00263,2024-08-14,C0068,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,4,245000,0.10,166000,882000,664000,218000
+V00264,2024-08-15,C0123,Asunción Centro,Asunción,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.10,123000,1053000,738000,315000
+V00265,2024-08-16,C0205,Luque,Luque,WhatsApp,TEC-002,Teclado mecánico,Tecnología,6,280000,0.20,205000,1344000,1230000,114000
+V00266,2024-08-17,C0001,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.00,55500,425000,277500,147500
+V00267,2024-08-17,C0180,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.05,31500,60800,31500,29300
+V00268,2024-08-18,C0189,Asunción Centro,Asunción,Online,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.15,18500,181050,111000,70050
+V00269,2024-08-19,C0026,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,1,19000,0.00,9000,19000,9000,10000
+V00270,2024-08-20,C0181,San Lorenzo,San Lorenzo,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,1,125000,0.20,79000,100000,79000,21000
+V00271,2024-08-21,C0095,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.10,9000,102600,54000,48600
+V00272,2024-08-22,C0085,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,5,280000,0.00,205000,1400000,1025000,375000
+V00273,2024-08-23,C0198,San Lorenzo,San Lorenzo,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.15,18500,241400,148000,93400
+V00274,2024-08-23,C0112,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.15,11200,142800,78400,64400
+V00275,2024-08-24,C0169,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.00,36500,272000,146000,126000
+V00276,2024-08-25,C0050,Luque,Luque,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,7,85000,0.20,55500,476000,388500,87500
+V00277,2024-08-26,C0173,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.05,11200,159600,78400,81200
+V00278,2024-08-27,C0113,San Lorenzo,San Lorenzo,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.00,74000,440000,296000,144000
+V00279,2024-08-28,C0084,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.05,123000,370500,246000,124500
+V00280,2024-08-29,C0100,Asunción Centro,Asunción,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.00,36500,408000,219000,189000
+V00281,2024-08-29,C0197,Encarnación,Encarnación,Online,TEC-004,Webcam HD,Tecnología,4,245000,0.15,166000,833000,664000,169000
+V00282,2024-08-30,C0148,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.10,36500,61200,36500,24700
+V00283,2024-08-31,C0030,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.20,166000,588000,498000,90000
+V00284,2024-09-01,C0149,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.30,11200,117600,78400,39200
+V00285,2024-09-02,C0112,Asunción Centro,Asunción,WhatsApp,OFI-004,Carpeta archivadora,Oficina,5,19000,0.00,9000,95000,45000,50000
+V00286,2024-09-03,C0060,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.10,55500,612000,444000,168000
+V00287,2024-09-04,C0004,Asunción Centro,Asunción,WhatsApp,TEC-004,Webcam HD,Tecnología,1,245000,0.15,166000,208250,166000,42250
+V00288,2024-09-05,C0103,Asunción Centro,Asunción,WhatsApp,TEC-004,Webcam HD,Tecnología,7,245000,0.05,166000,1629250,1162000,467250
+V00289,2024-09-05,C0115,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.20,123000,780000,615000,165000
+V00290,2024-09-06,C0160,San Lorenzo,San Lorenzo,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.20,31500,204800,126000,78800
+V00291,2024-09-07,C0060,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.00,18500,284000,148000,136000
+V00292,2024-09-08,C0186,San Lorenzo,San Lorenzo,WhatsApp,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V00293,2024-09-09,C0016,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.10,79000,225000,158000,67000
+V00294,2024-09-10,C0146,Luque,Luque,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.00,74000,220000,148000,72000
+V00295,2024-09-11,C0157,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.00,9000,57000,27000,30000
+V00296,2024-09-11,C0163,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,7,280000,0.05,205000,1862000,1435000,427000
+V00297,2024-09-12,C0179,Luque,Luque,WhatsApp,HOG-002,Organizador multiuso,Hogar,2,64000,0.00,31500,128000,63000,65000
+V00298,2024-09-13,C0112,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.20,9000,45600,27000,18600
+V00299,2024-09-14,C0194,Luque,Luque,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.10,74000,594000,444000,150000
+V00300,2024-09-15,C0090,San Lorenzo,San Lorenzo,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.15,55500,72250,55500,16750
+V00301,2024-09-16,C0104,Asunción Centro,Asunción,Online,OFI-003,Cuaderno universitario,Oficina,3,24000,0.15,11200,61200,33600,27600
+V00302,2024-09-17,C0204,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.15,74000,374000,296000,78000
+V00303,2024-09-17,C0080,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.10,31500,57600,31500,26100
+V00304,2024-09-18,C0190,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,8,24000,0.10,11200,172800,89600,83200
+V00305,2024-09-19,C0038,Asunción Centro,Asunción,Online,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.00,18500,142000,74000,68000
+V00306,2024-09-20,C0051,Encarnación,Encarnación,WhatsApp,OFI-001,Resma papel A4,Oficina,8,42000,0.05,25800,319200,206400,112800
+V00307,2024-09-21,C0014,Luque,Luque,Online,OFI-004,Carpeta archivadora,Oficina,6,19000,0.00,9000,114000,54000,60000
+V00308,2024-09-22,C0197,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00309,2024-09-23,C0035,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.15,166000,416500,332000,84500
+V00310,2024-09-23,C0152,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.10,123000,1053000,738000,315000
+V00311,2024-09-24,C0119,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.00,11200,144000,67200,76800
+V00312,2024-09-25,C0102,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,5,19000,0.00,9000,95000,45000,50000
+V00313,2024-09-26,C0142,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.10,166000,220500,166000,54500
+V00314,2024-09-27,C0066,Ciudad del Este,Ciudad del Este,Online,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.00,74000,220000,148000,72000
+V00315,2024-09-28,C0058,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.10,79000,450000,316000,134000
+V00316,2024-09-29,C0108,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.05,31500,243200,126000,117200
+V00317,2024-09-30,C0182,Ciudad del Este,Ciudad del Este,Online,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V00318,2024-09-30,C0071,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.15,123000,497250,369000,128250
+V00319,2024-10-01,C0066,Asunción Centro,Asunción,Online,TEC-004,Webcam HD,Tecnología,2,245000,0.20,166000,392000,332000,60000
+V00320,2024-10-02,C0076,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,7,110000,0.30,74000,539000,518000,21000
+V00321,2024-10-03,C0048,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,2,280000,0.15,205000,476000,410000,66000
+V00322,2024-10-04,C0186,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.05,18500,236075,129500,106575
+V00323,2024-10-05,C0066,Ciudad del Este,Ciudad del Este,Online,HOG-002,Organizador multiuso,Hogar,3,64000,0.10,31500,172800,94500,78300
+V00324,2024-10-06,C0174,San Lorenzo,San Lorenzo,Online,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.15,123000,828750,615000,213750
+V00325,2024-10-06,C0133,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.00,36500,544000,292000,252000
+V00326,2024-10-07,C0169,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.00,18500,142000,74000,68000
+V00327,2024-10-08,C0029,Encarnación,Encarnación,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,7,68000,0.10,36500,428400,255500,172900
+V00328,2024-10-09,C0063,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.15,36500,57800,36500,21300
+V00329,2024-10-10,C0077,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.00,31500,256000,126000,130000
+V00330,2024-10-11,C0200,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.30,123000,546000,492000,54000
+V00331,2024-10-12,C0116,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00332,2024-10-12,C0179,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.05,9000,108300,54000,54300
+V00333,2024-10-13,C0020,Luque,Luque,Online,OFI-003,Cuaderno universitario,Oficina,3,24000,0.00,11200,72000,33600,38400
+V00334,2024-10-14,C0190,San Lorenzo,San Lorenzo,Online,TEC-002,Teclado mecánico,Tecnología,1,280000,0.00,205000,280000,205000,75000
+V00335,2024-10-15,C0077,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.00,123000,1365000,861000,504000
+V00336,2024-10-16,C0064,Asunción Centro,Asunción,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.00,18500,284000,148000,136000
+V00337,2024-10-17,C0065,San Lorenzo,San Lorenzo,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.00,123000,1365000,861000,504000
+V00338,2024-10-18,C0067,Encarnación,Encarnación,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.00,18500,248500,129500,119000
+V00339,2024-10-18,C0140,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.00,55500,510000,333000,177000
+V00340,2024-10-19,C0107,Encarnación,Encarnación,Online,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.00,55500,85000,55500,29500
+V00341,2024-10-20,C0116,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.15,79000,318750,237000,81750
+V00342,2024-10-21,C0013,Luque,Luque,WhatsApp,HOG-002,Organizador multiuso,Hogar,7,64000,0.20,31500,358400,220500,137900
+V00343,2024-10-22,C0032,San Lorenzo,San Lorenzo,WhatsApp,OFI-004,Carpeta archivadora,Oficina,6,19000,0.10,9000,102600,54000,48600
+V00344,2024-10-23,C0209,Asunción Centro,Asunción,Online,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.00,18500,177500,92500,85000
+V00345,2024-10-24,C0013,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-003,Cuaderno universitario,Oficina,6,24000,0.30,11200,100800,67200,33600
+V00346,2024-10-25,C0074,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,8,245000,0.00,166000,1960000,1328000,632000
+V00347,2024-10-25,C0105,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.05,123000,1111500,738000,373500
+V00348,2024-10-26,C0107,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.00,18500,284000,148000,136000
+V00349,2024-10-27,C0056,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.00,18500,71000,37000,34000
+V00350,2024-10-28,C0109,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,5,280000,0.10,205000,1260000,1025000,235000
+V00351,2024-10-29,C0087,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,6,280000,0.05,205000,1596000,1230000,366000
+V00352,2024-10-30,C0199,Encarnación,Encarnación,Online,OFI-003,Cuaderno universitario,Oficina,8,24000,0.00,11200,192000,89600,102400
+V00353,2024-10-31,C0126,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.20,9000,121600,72000,49600
+V00354,2024-10-31,C0126,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,5,24000,0.20,11200,96000,56000,40000
+V00355,2024-11-01,C0206,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.00,11200,144000,67200,76800
+V00356,2024-11-02,C0138,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V00357,2024-11-03,C0114,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-004,Webcam HD,Tecnología,7,245000,0.05,166000,1629250,1162000,467250
+V00358,2024-11-04,C0164,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.00,55500,510000,333000,177000
+V00359,2024-11-05,C0125,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,1,24000,0.10,11200,21600,11200,10400
+V00360,2024-11-06,C0083,Asunción Centro,Asunción,Online,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V00361,2024-11-06,C0210,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.00,25800,336000,206400,129600
+V00362,2024-11-07,C0010,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.00,18500,71000,37000,34000
+V00363,2024-11-08,C0093,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.00,18500,35500,18500,17000
+V00364,2024-11-09,C0204,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,2,64000,0.05,31500,121600,63000,58600
+V00365,2024-11-10,C0185,Asunción Centro,Asunción,Online,OFI-001,Resma papel A4,Oficina,1,42000,0.15,25800,35700,25800,9900
+V00366,2024-11-11,C0201,Asunción Centro,Asunción,WhatsApp,OFI-003,Cuaderno universitario,Oficina,6,24000,0.10,11200,129600,67200,62400
+V00367,2024-11-12,C0205,San Lorenzo,San Lorenzo,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.15,123000,331500,246000,85500
+V00368,2024-11-12,C0040,San Lorenzo,San Lorenzo,WhatsApp,HOG-002,Organizador multiuso,Hogar,1,64000,0.05,31500,60800,31500,29300
+V00369,2024-11-13,C0021,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,5,68000,0.10,36500,306000,182500,123500
+V00370,2024-11-14,C0106,Encarnación,Encarnación,Tienda física,TEC-004,Webcam HD,Tecnología,5,245000,0.10,166000,1102500,830000,272500
+V00371,2024-11-15,C0140,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.20,55500,204000,166500,37500
+V00372,2024-11-16,C0025,Encarnación,Encarnación,WhatsApp,TEC-004,Webcam HD,Tecnología,6,245000,0.15,166000,1249500,996000,253500
+V00373,2024-11-17,C0199,San Lorenzo,San Lorenzo,Online,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.00,79000,1000000,632000,368000
+V00374,2024-11-18,C0192,San Lorenzo,San Lorenzo,Online,OFI-001,Resma papel A4,Oficina,8,42000,0.00,25800,336000,206400,129600
+V00375,2024-11-19,C0175,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.15,74000,187000,148000,39000
+V00376,2024-11-19,C0082,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.00,18500,71000,37000,34000
+V00377,2024-11-20,C0076,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.00,123000,390000,246000,144000
+V00378,2024-11-21,C0112,Encarnación,Encarnación,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.05,166000,232750,166000,66750
+V00379,2024-11-22,C0105,Ciudad del Este,Ciudad del Este,Online,OFI-003,Cuaderno universitario,Oficina,8,24000,0.00,11200,192000,89600,102400
+V00380,2024-11-23,C0031,San Lorenzo,San Lorenzo,Online,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.10,74000,594000,444000,150000
+V00381,2024-11-24,C0062,Asunción Centro,Asunción,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.30,123000,546000,492000,54000
+V00382,2024-11-25,C0056,San Lorenzo,San Lorenzo,Online,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.15,36500,462400,292000,170400
+V00383,2024-11-25,C0178,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.10,74000,198000,148000,50000
+V00384,2024-11-26,C0053,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.30,55500,476000,444000,32000
+V00385,2024-11-27,C0083,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.30,55500,59500,55500,4000
+V00386,2024-11-28,C0111,Asunción Centro,Asunción,WhatsApp,OFI-003,Cuaderno universitario,Oficina,6,24000,0.05,11200,136800,67200,69600
+V00387,2024-11-29,C0023,San Lorenzo,San Lorenzo,Tienda física,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V00388,2024-11-30,C0038,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,3,64000,0.20,31500,153600,94500,59100
+V00389,2024-12-01,C0113,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.20,166000,588000,498000,90000
+V00390,2024-12-01,C0084,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.05,31500,243200,126000,117200
+V00391,2024-12-02,C0059,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.00,79000,500000,316000,184000
+V00392,2024-12-03,C0133,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,2,24000,0.05,11200,45600,22400,23200
+V00393,2024-12-04,C0042,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,2,64000,0.15,31500,108800,63000,45800
+V00394,2024-12-05,C0001,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.00,79000,500000,316000,184000
+V00395,2024-12-06,C0123,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,5,42000,0.00,25800,210000,129000,81000
+V00396,2024-12-07,C0152,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.20,123000,1248000,984000,264000
+V00397,2024-12-08,C0181,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.10,79000,450000,316000,134000
+V00398,2024-12-08,C0115,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.05,36500,516800,292000,224800
+V00399,2024-12-09,C0006,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,5,280000,0.00,205000,1400000,1025000,375000
+V00400,2024-12-10,C0139,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.00,166000,735000,498000,237000
+V00401,2024-12-11,C0122,San Lorenzo,San Lorenzo,WhatsApp,OFI-003,Cuaderno universitario,Oficina,5,24000,0.20,11200,96000,56000,40000
+V00402,2024-12-12,C0029,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.15,79000,318750,237000,81750
+V00403,2024-12-13,C0145,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00404,2024-12-14,C0124,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.00,18500,248500,129500,119000
+V00405,2024-12-14,C0058,Encarnación,Encarnación,Tienda física,TEC-004,Webcam HD,Tecnología,7,245000,0.00,166000,1715000,1162000,553000
+V00406,2024-12-15,C0183,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,1,42000,0.00,25800,42000,25800,16200
+V00407,2024-12-16,C0194,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.15,79000,531250,395000,136250
+V00408,2024-12-17,C0012,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-001,Resma papel A4,Oficina,7,42000,0.00,25800,294000,180600,113400
+V00409,2024-12-18,C0050,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.15,18500,60350,37000,23350
+V00410,2024-12-19,C0053,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.00,18500,71000,37000,34000
+V00411,2024-12-20,C0041,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,4,245000,0.10,166000,882000,664000,218000
+V00412,2024-12-20,C0128,San Lorenzo,San Lorenzo,Online,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.05,79000,475000,316000,159000
+V00413,2024-12-21,C0143,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.20,55500,544000,444000,100000
+V00414,2024-12-22,C0143,San Lorenzo,San Lorenzo,WhatsApp,OFI-004,Carpeta archivadora,Oficina,6,19000,0.20,9000,91200,54000,37200
+V00415,2024-12-23,C0182,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,5,24000,0.00,11200,120000,56000,64000
+V00416,2024-12-24,C0167,Encarnación,Encarnación,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.10,55500,382500,277500,105000
+V00417,2024-12-25,C0148,Encarnación,Encarnación,Tienda física,TEC-004,Webcam HD,Tecnología,7,245000,0.30,166000,1200500,1162000,38500
+V00418,2024-12-26,C0099,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.10,123000,1053000,738000,315000
+V00419,2024-12-26,C0009,San Lorenzo,San Lorenzo,Online,OFI-004,Carpeta archivadora,Oficina,1,19000,0.10,9000,17100,9000,8100
+V00420,2024-12-27,C0004,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.00,31500,384000,189000,195000
+V00421,2024-12-28,C0003,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.15,79000,637500,474000,163500
+V00422,2024-12-29,C0020,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,5,64000,0.00,31500,320000,157500,162500
+V00423,2024-12-30,C0171,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,7,85000,0.00,55500,595000,388500,206500
+V00424,2024-12-31,C0204,Encarnación,Encarnación,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.00,74000,550000,370000,180000
+V00425,2025-01-01,C0199,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V00426,2025-01-02,C0201,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.00,55500,340000,222000,118000
+V00427,2025-01-02,C0016,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.05,55500,242250,166500,75750
+V00428,2025-01-03,C0053,Asunción Centro,Asunción,Online,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.10,18500,63900,37000,26900
+V00429,2025-01-04,C0182,Asunción Centro,Asunción,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.00,123000,1170000,738000,432000
+V00430,2025-01-05,C0089,Asunción Centro,Asunción,Online,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.20,36500,163200,109500,53700
+V00431,2025-01-06,C0069,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.20,36500,217600,146000,71600
+V00432,2025-01-07,C0167,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.10,18500,63900,37000,26900
+V00433,2025-01-08,C0167,Encarnación,Encarnación,Tienda física,TEC-004,Webcam HD,Tecnología,8,245000,0.00,166000,1960000,1328000,632000
+V00434,2025-01-08,C0209,Ciudad del Este,Ciudad del Este,Online,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.10,74000,792000,592000,200000
+V00435,2025-01-09,C0110,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.15,74000,187000,148000,39000
+V00436,2025-01-10,C0192,Asunción Centro,Asunción,Online,OFI-003,Cuaderno universitario,Oficina,6,24000,0.00,11200,144000,67200,76800
+V00437,2025-01-11,C0208,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.10,36500,244800,146000,98800
+V00438,2025-01-12,C0130,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.05,123000,555750,369000,186750
+V00439,2025-01-13,C0159,Encarnación,Encarnación,Online,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.00,55500,85000,55500,29500
+V00440,2025-01-14,C0003,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.00,79000,500000,316000,184000
+V00441,2025-01-14,C0079,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V00442,2025-01-15,C0201,Encarnación,Encarnación,Online,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.00,123000,1365000,861000,504000
+V00443,2025-01-16,C0099,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.00,55500,425000,277500,147500
+V00444,2025-01-17,C0088,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,4,24000,0.00,11200,96000,44800,51200
+V00445,2025-01-18,C0205,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.00,31500,448000,220500,227500
+V00446,2025-01-19,C0150,Luque,Luque,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.15,18500,150875,92500,58375
+V00447,2025-01-20,C0072,Luque,Luque,Online,OFI-003,Cuaderno universitario,Oficina,2,24000,0.00,11200,48000,22400,25600
+V00448,2025-01-20,C0026,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.15,36500,462400,292000,170400
+V00449,2025-01-21,C0190,Ciudad del Este,Ciudad del Este,Online,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.10,36500,367200,219000,148200
+V00450,2025-01-22,C0043,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.00,205000,1120000,820000,300000
+V00451,2025-01-23,C0031,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,4,245000,0.20,166000,784000,664000,120000
+V00452,2025-01-24,C0185,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.05,31500,364800,189000,175800
+V00453,2025-01-25,C0128,Encarnación,Encarnación,WhatsApp,TEC-002,Teclado mecánico,Tecnología,1,280000,0.00,205000,280000,205000,75000
+V00454,2025-01-26,C0143,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.15,79000,850000,632000,218000
+V00455,2025-01-27,C0151,Encarnación,Encarnación,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.00,74000,220000,148000,72000
+V00456,2025-01-27,C0197,Ciudad del Este,Ciudad del Este,Online,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.05,74000,209000,148000,61000
+V00457,2025-01-28,C0086,Ciudad del Este,Ciudad del Este,Online,TEC-002,Teclado mecánico,Tecnología,7,280000,0.15,205000,1666000,1435000,231000
+V00458,2025-01-29,C0195,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.15,36500,173400,109500,63900
+V00459,2025-01-30,C0112,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.05,36500,64600,36500,28100
+V00460,2025-01-31,C0135,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.10,9000,102600,54000,48600
+V00461,2025-02-01,C0066,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.10,166000,220500,166000,54500
+V00462,2025-02-02,C0006,Luque,Luque,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,3,110000,0.05,74000,313500,222000,91500
+V00463,2025-02-02,C0189,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,1,19000,0.00,9000,19000,9000,10000
+V00464,2025-02-03,C0147,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.00,123000,1365000,861000,504000
+V00465,2025-02-04,C0084,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.10,25800,302400,206400,96000
+V00466,2025-02-05,C0133,Encarnación,Encarnación,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.00,123000,1560000,984000,576000
+V00467,2025-02-06,C0113,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.10,55500,229500,166500,63000
+V00468,2025-02-07,C0192,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.00,31500,256000,126000,130000
+V00469,2025-02-08,C0020,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.15,31500,435200,252000,183200
+V00470,2025-02-08,C0005,Encarnación,Encarnación,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.10,18500,95850,55500,40350
+V00471,2025-02-09,C0185,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,1,24000,0.00,11200,24000,11200,12800
+V00472,2025-02-10,C0151,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.10,31500,403200,220500,182700
+V00473,2025-02-11,C0063,Luque,Luque,WhatsApp,TEC-002,Teclado mecánico,Tecnología,5,280000,0.00,205000,1400000,1025000,375000
+V00474,2025-02-12,C0053,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.05,9000,36100,18000,18100
+V00475,2025-02-13,C0022,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,3,64000,0.15,31500,163200,94500,68700
+V00476,2025-02-14,C0065,Luque,Luque,Online,TEC-002,Teclado mecánico,Tecnología,1,280000,0.10,205000,252000,205000,47000
+V00477,2025-02-14,C0072,Encarnación,Encarnación,Online,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.00,79000,875000,553000,322000
+V00478,2025-02-15,C0022,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V00479,2025-02-16,C0176,Luque,Luque,Tienda física,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V00480,2025-02-17,C0026,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.15,123000,1326000,984000,342000
+V00481,2025-02-18,C0139,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,2,64000,0.05,31500,121600,63000,58600
+V00482,2025-02-19,C0190,Luque,Luque,WhatsApp,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V00483,2025-02-20,C0206,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,8,24000,0.10,11200,172800,89600,83200
+V00484,2025-02-21,C0023,San Lorenzo,San Lorenzo,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.05,74000,522500,370000,152500
+V00485,2025-02-21,C0057,Encarnación,Encarnación,WhatsApp,TEC-002,Teclado mecánico,Tecnología,2,280000,0.15,205000,476000,410000,66000
+V00486,2025-02-22,C0107,Ciudad del Este,Ciudad del Este,Online,TEC-004,Webcam HD,Tecnología,5,245000,0.10,166000,1102500,830000,272500
+V00487,2025-02-23,C0205,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.00,18500,248500,129500,119000
+V00488,2025-02-24,C0007,Encarnación,Encarnación,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.00,74000,880000,592000,288000
+V00489,2025-02-25,C0156,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.00,74000,550000,370000,180000
+V00490,2025-02-26,C0206,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-002,Organizador multiuso,Hogar,6,64000,0.00,31500,384000,189000,195000
+V00491,2025-02-27,C0057,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,4,245000,0.30,166000,686000,664000,22000
+V00492,2025-02-27,C0134,Luque,Luque,Tienda física,TEC-002,Teclado mecánico,Tecnología,2,280000,0.00,205000,560000,410000,150000
+V00493,2025-02-28,C0130,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.10,36500,122400,73000,49400
+V00494,2025-03-01,C0050,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,8,64000,0.15,31500,435200,252000,183200
+V00495,2025-03-02,C0148,San Lorenzo,San Lorenzo,Online,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.00,123000,195000,123000,72000
+V00496,2025-03-03,C0087,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-002,Teclado mecánico,Tecnología,2,280000,0.00,205000,560000,410000,150000
+V00497,2025-03-04,C0133,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.00,123000,195000,123000,72000
+V00498,2025-03-05,C0066,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,7,245000,0.00,166000,1715000,1162000,553000
+V00499,2025-03-05,C0092,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.05,123000,926250,615000,311250
+V00500,2025-03-06,C0097,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.00,55500,340000,222000,118000
+V00501,2025-03-07,C0098,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.15,123000,497250,369000,128250
+V00502,2025-03-08,C0159,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.00,18500,284000,148000,136000
+V00503,2025-03-09,C0117,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,7,280000,0.00,205000,1960000,1435000,525000
+V00504,2025-03-10,C0159,San Lorenzo,San Lorenzo,WhatsApp,TEC-002,Teclado mecánico,Tecnología,4,280000,0.10,205000,1008000,820000,188000
+V00505,2025-03-11,C0158,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-003,Cuaderno universitario,Oficina,1,24000,0.15,11200,20400,11200,9200
+V00506,2025-03-12,C0133,Encarnación,Encarnación,WhatsApp,TEC-004,Webcam HD,Tecnología,3,245000,0.10,166000,661500,498000,163500
+V00507,2025-03-12,C0154,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.15,18500,241400,148000,93400
+V00508,2025-03-13,C0011,Luque,Luque,WhatsApp,OFI-004,Carpeta archivadora,Oficina,4,19000,0.00,9000,76000,36000,40000
+V00509,2025-03-14,C0022,San Lorenzo,San Lorenzo,Online,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.00,18500,142000,74000,68000
+V00510,2025-03-15,C0112,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.00,79000,500000,316000,184000
+V00511,2025-03-16,C0070,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,3,110000,0.10,74000,297000,222000,75000
+V00512,2025-03-17,C0056,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,7,85000,0.15,55500,505750,388500,117250
+V00513,2025-03-18,C0079,San Lorenzo,San Lorenzo,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,1,125000,0.00,79000,125000,79000,46000
+V00514,2025-03-18,C0035,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,5,245000,0.00,166000,1225000,830000,395000
+V00515,2025-03-19,C0020,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,7,42000,0.10,25800,264600,180600,84000
+V00516,2025-03-20,C0025,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.00,205000,1120000,820000,300000
+V00517,2025-03-21,C0209,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.00,36500,272000,146000,126000
+V00518,2025-03-22,C0185,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.00,74000,110000,74000,36000
+V00519,2025-03-23,C0011,Luque,Luque,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00520,2025-03-24,C0083,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.00,79000,500000,316000,184000
+V00521,2025-03-24,C0153,Luque,Luque,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.00,74000,440000,296000,144000
+V00522,2025-03-25,C0056,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.05,123000,926250,615000,311250
+V00523,2025-03-26,C0072,Encarnación,Encarnación,WhatsApp,OFI-004,Carpeta archivadora,Oficina,1,19000,0.20,9000,15200,9000,6200
+V00524,2025-03-27,C0110,Encarnación,Encarnación,Online,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.00,123000,780000,492000,288000
+V00525,2025-03-28,C0204,Luque,Luque,WhatsApp,OFI-003,Cuaderno universitario,Oficina,2,24000,0.05,11200,45600,22400,23200
+V00526,2025-03-29,C0133,Luque,Luque,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.00,74000,110000,74000,36000
+V00527,2025-03-30,C0106,San Lorenzo,San Lorenzo,Online,TEC-004,Webcam HD,Tecnología,3,245000,0.10,166000,661500,498000,163500
+V00528,2025-03-30,C0127,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.20,11200,115200,67200,48000
+V00529,2025-03-31,C0119,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.20,79000,800000,632000,168000
+V00530,2025-04-01,C0145,Encarnación,Encarnación,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V00531,2025-04-02,C0201,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.10,9000,102600,54000,48600
+V00532,2025-04-03,C0085,Encarnación,Encarnación,WhatsApp,OFI-004,Carpeta archivadora,Oficina,3,19000,0.10,9000,51300,27000,24300
+V00533,2025-04-04,C0191,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.00,123000,585000,369000,216000
+V00534,2025-04-05,C0008,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.20,31500,307200,189000,118200
+V00535,2025-04-06,C0017,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.10,123000,526500,369000,157500
+V00536,2025-04-06,C0092,Luque,Luque,Online,OFI-003,Cuaderno universitario,Oficina,5,24000,0.15,11200,102000,56000,46000
+V00537,2025-04-07,C0193,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.00,79000,375000,237000,138000
+V00538,2025-04-08,C0177,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.15,9000,32300,18000,14300
+V00539,2025-04-09,C0055,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.15,166000,624750,498000,126750
+V00540,2025-04-10,C0018,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.00,31500,384000,189000,195000
+V00541,2025-04-11,C0117,Ciudad del Este,Ciudad del Este,Online,OFI-001,Resma papel A4,Oficina,8,42000,0.00,25800,336000,206400,129600
+V00542,2025-04-12,C0184,Encarnación,Encarnación,WhatsApp,OFI-004,Carpeta archivadora,Oficina,2,19000,0.20,9000,30400,18000,12400
+V00543,2025-04-12,C0020,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.00,74000,660000,444000,216000
+V00544,2025-04-13,C0205,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,4,24000,0.15,11200,81600,44800,36800
+V00545,2025-04-14,C0059,Asunción Centro,Asunción,WhatsApp,TEC-002,Teclado mecánico,Tecnología,4,280000,0.15,205000,952000,820000,132000
+V00546,2025-04-15,C0165,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.30,79000,437500,395000,42500
+V00547,2025-04-16,C0061,Luque,Luque,WhatsApp,TEC-002,Teclado mecánico,Tecnología,6,280000,0.20,205000,1344000,1230000,114000
+V00548,2025-04-17,C0162,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.10,36500,122400,73000,49400
+V00549,2025-04-18,C0098,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.05,31500,364800,189000,175800
+V00550,2025-04-18,C0058,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.00,55500,340000,222000,118000
+V00551,2025-04-19,C0146,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.30,79000,700000,632000,68000
+V00552,2025-04-20,C0026,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.30,18500,198800,148000,50800
+V00553,2025-04-21,C0006,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,7,245000,0.00,166000,1715000,1162000,553000
+V00554,2025-04-22,C0186,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.10,11200,151200,78400,72800
+V00555,2025-04-23,C0103,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,3,110000,0.20,74000,264000,222000,42000
+V00556,2025-04-24,C0061,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V00557,2025-04-24,C0197,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,5,64000,0.00,31500,320000,157500,162500
+V00558,2025-04-25,C0077,Asunción Centro,Asunción,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.20,36500,54400,36500,17900
+V00559,2025-04-26,C0092,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.00,11200,144000,67200,76800
+V00560,2025-04-27,C0001,Asunción Centro,Asunción,WhatsApp,OFI-001,Resma papel A4,Oficina,6,42000,0.05,25800,239400,154800,84600
+V00561,2025-04-28,C0158,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.20,123000,468000,369000,99000
+V00562,2025-04-29,C0182,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.00,74000,440000,296000,144000
+V00563,2025-04-30,C0014,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,8,280000,0.05,205000,2128000,1640000,488000
+V00564,2025-05-01,C0117,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V00565,2025-05-01,C0147,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.00,79000,250000,158000,92000
+V00566,2025-05-02,C0063,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.10,25800,226800,154800,72000
+V00567,2025-05-03,C0190,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.00,79000,875000,553000,322000
+V00568,2025-05-04,C0190,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.10,9000,102600,54000,48600
+V00569,2025-05-05,C0110,Ciudad del Este,Ciudad del Este,Online,OFI-003,Cuaderno universitario,Oficina,1,24000,0.30,11200,16800,11200,5600
+V00570,2025-05-06,C0042,Asunción Centro,Asunción,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.00,25800,336000,206400,129600
+V00571,2025-05-07,C0150,Luque,Luque,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.15,205000,952000,820000,132000
+V00572,2025-05-07,C0017,Asunción Centro,Asunción,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.00,79000,375000,237000,138000
+V00573,2025-05-08,C0192,Asunción Centro,Asunción,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.00,79000,250000,158000,92000
+V00574,2025-05-09,C0033,Ciudad del Este,Ciudad del Este,Online,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.00,123000,195000,123000,72000
+V00575,2025-05-10,C0178,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,7,85000,0.30,55500,416500,388500,28000
+V00576,2025-05-11,C0066,San Lorenzo,San Lorenzo,WhatsApp,TEC-004,Webcam HD,Tecnología,3,245000,0.05,166000,698250,498000,200250
+V00577,2025-05-12,C0154,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.05,9000,54150,27000,27150
+V00578,2025-05-13,C0026,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.00,123000,780000,492000,288000
+V00579,2025-05-13,C0128,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.20,74000,704000,592000,112000
+V00580,2025-05-14,C0203,Luque,Luque,WhatsApp,TEC-002,Teclado mecánico,Tecnología,6,280000,0.30,205000,1176000,1230000,-54000
+V00581,2025-05-15,C0053,Encarnación,Encarnación,Online,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.05,36500,258400,146000,112400
+V00582,2025-05-16,C0142,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.10,123000,351000,246000,105000
+V00583,2025-05-17,C0157,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.00,79000,250000,158000,92000
+V00584,2025-05-18,C0208,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.10,123000,702000,492000,210000
+V00585,2025-05-19,C0197,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.00,79000,750000,474000,276000
+V00586,2025-05-19,C0080,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.20,36500,163200,109500,53700
+V00587,2025-05-20,C0059,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.00,18500,177500,92500,85000
+V00588,2025-05-21,C0097,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.05,74000,418000,296000,122000
+V00589,2025-05-22,C0204,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.20,74000,88000,74000,14000
+V00590,2025-05-23,C0031,Encarnación,Encarnación,Online,HOG-003,Botella térmica 750ml,Hogar,7,110000,0.05,74000,731500,518000,213500
+V00591,2025-05-24,C0118,San Lorenzo,San Lorenzo,Online,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.05,55500,646000,444000,202000
+V00592,2025-05-25,C0148,San Lorenzo,San Lorenzo,Online,OFI-004,Carpeta archivadora,Oficina,5,19000,0.20,9000,76000,45000,31000
+V00593,2025-05-26,C0011,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.20,74000,528000,444000,84000
+V00594,2025-05-26,C0201,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.05,36500,64600,36500,28100
+V00595,2025-05-27,C0042,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,3,280000,0.20,205000,672000,615000,57000
+V00596,2025-05-28,C0083,Encarnación,Encarnación,WhatsApp,TEC-004,Webcam HD,Tecnología,4,245000,0.20,166000,784000,664000,120000
+V00597,2025-05-29,C0010,Ciudad del Este,Ciudad del Este,Online,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.10,123000,1053000,738000,315000
+V00598,2025-05-30,C0049,Encarnación,Encarnación,Online,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.05,36500,64600,36500,28100
+V00599,2025-05-31,C0134,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.00,11200,168000,78400,89600
+V00600,2025-06-01,C0030,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.00,123000,1560000,984000,576000
+V00601,2025-06-01,C0200,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.10,79000,562500,395000,167500
+V00602,2025-06-02,C0117,Luque,Luque,Online,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.30,123000,409500,369000,40500
+V00603,2025-06-03,C0031,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,5,64000,0.00,31500,320000,157500,162500
+V00604,2025-06-04,C0135,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.00,55500,425000,277500,147500
+V00605,2025-06-05,C0109,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.20,31500,51200,31500,19700
+V00606,2025-06-06,C0200,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,5,42000,0.00,25800,210000,129000,81000
+V00607,2025-06-07,C0019,San Lorenzo,San Lorenzo,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.00,31500,384000,189000,195000
+V00608,2025-06-07,C0003,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00609,2025-06-08,C0015,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,1,280000,0.00,205000,280000,205000,75000
+V00610,2025-06-09,C0093,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,7,42000,0.15,25800,249900,180600,69300
+V00611,2025-06-10,C0086,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.10,74000,594000,444000,150000
+V00612,2025-06-11,C0195,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.10,123000,175500,123000,52500
+V00613,2025-06-12,C0101,Encarnación,Encarnación,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.05,123000,555750,369000,186750
+V00614,2025-06-13,C0016,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.20,25800,268800,206400,62400
+V00615,2025-06-14,C0012,Luque,Luque,Online,OFI-004,Carpeta archivadora,Oficina,3,19000,0.00,9000,57000,27000,30000
+V00616,2025-06-14,C0075,Asunción Centro,Asunción,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.10,123000,877500,615000,262500
+V00617,2025-06-15,C0197,San Lorenzo,San Lorenzo,WhatsApp,OFI-004,Carpeta archivadora,Oficina,4,19000,0.00,9000,76000,36000,40000
+V00618,2025-06-16,C0189,San Lorenzo,San Lorenzo,Online,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00619,2025-06-17,C0207,Luque,Luque,Online,OFI-001,Resma papel A4,Oficina,3,42000,0.10,25800,113400,77400,36000
+V00620,2025-06-18,C0012,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.10,79000,675000,474000,201000
+V00621,2025-06-19,C0168,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.00,55500,680000,444000,236000
+V00622,2025-06-20,C0038,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.00,123000,390000,246000,144000
+V00623,2025-06-20,C0150,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.00,18500,106500,55500,51000
+V00624,2025-06-21,C0131,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.10,79000,900000,632000,268000
+V00625,2025-06-22,C0110,Asunción Centro,Asunción,WhatsApp,OFI-003,Cuaderno universitario,Oficina,2,24000,0.05,11200,45600,22400,23200
+V00626,2025-06-23,C0172,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.10,55500,153000,111000,42000
+V00627,2025-06-24,C0188,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.00,79000,875000,553000,322000
+V00628,2025-06-25,C0015,Asunción Centro,Asunción,WhatsApp,OFI-004,Carpeta archivadora,Oficina,3,19000,0.10,9000,51300,27000,24300
+V00629,2025-06-26,C0198,San Lorenzo,San Lorenzo,Online,HOG-002,Organizador multiuso,Hogar,5,64000,0.10,31500,288000,157500,130500
+V00630,2025-06-26,C0095,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,1,125000,0.00,79000,125000,79000,46000
+V00631,2025-06-27,C0142,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.20,36500,217600,146000,71600
+V00632,2025-06-28,C0166,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.10,55500,306000,222000,84000
+V00633,2025-06-29,C0150,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.05,205000,1064000,820000,244000
+V00634,2025-06-30,C0151,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.20,18500,142000,92500,49500
+V00635,2025-07-01,C0057,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-003,Cuaderno universitario,Oficina,5,24000,0.05,11200,114000,56000,58000
+V00636,2025-07-02,C0005,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.30,123000,546000,492000,54000
+V00637,2025-07-02,C0188,Asunción Centro,Asunción,Online,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.20,55500,204000,166500,37500
+V00638,2025-07-03,C0054,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.00,79000,1000000,632000,368000
+V00639,2025-07-04,C0104,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.20,123000,1248000,984000,264000
+V00640,2025-07-05,C0201,Encarnación,Encarnación,Online,HOG-002,Organizador multiuso,Hogar,8,64000,0.20,31500,409600,252000,157600
+V00641,2025-07-06,C0037,Asunción Centro,Asunción,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.00,55500,680000,444000,236000
+V00642,2025-07-07,C0049,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.05,79000,712500,474000,238500
+V00643,2025-07-08,C0207,Encarnación,Encarnación,Online,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.30,55500,238000,222000,16000
+V00644,2025-07-09,C0195,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.15,25800,142800,103200,39600
+V00645,2025-07-09,C0025,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.05,79000,593750,395000,198750
+V00646,2025-07-10,C0183,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.15,31500,54400,31500,22900
+V00647,2025-07-11,C0047,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.00,31500,384000,189000,195000
+V00648,2025-07-12,C0153,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.20,79000,400000,316000,84000
+V00649,2025-07-13,C0027,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.00,9000,57000,27000,30000
+V00650,2025-07-14,C0125,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.00,55500,255000,166500,88500
+V00651,2025-07-15,C0068,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.10,18500,95850,55500,40350
+V00652,2025-07-15,C0127,San Lorenzo,San Lorenzo,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.00,25800,252000,154800,97200
+V00653,2025-07-16,C0207,San Lorenzo,San Lorenzo,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.20,31500,307200,189000,118200
+V00654,2025-07-17,C0125,Encarnación,Encarnación,Online,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.15,74000,93500,74000,19500
+V00655,2025-07-18,C0168,Asunción Centro,Asunción,Online,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.15,18500,120700,74000,46700
+V00656,2025-07-19,C0126,San Lorenzo,San Lorenzo,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.10,79000,337500,237000,100500
+V00657,2025-07-20,C0042,Asunción Centro,Asunción,Online,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V00658,2025-07-21,C0062,San Lorenzo,San Lorenzo,WhatsApp,OFI-001,Resma papel A4,Oficina,7,42000,0.00,25800,294000,180600,113400
+V00659,2025-07-21,C0191,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,2,64000,0.00,31500,128000,63000,65000
+V00660,2025-07-22,C0164,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.15,31500,380800,220500,160300
+V00661,2025-07-23,C0149,San Lorenzo,San Lorenzo,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.00,25800,168000,103200,64800
+V00662,2025-07-24,C0036,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,5,19000,0.00,9000,95000,45000,50000
+V00663,2025-07-25,C0058,Asunción Centro,Asunción,Online,TEC-002,Teclado mecánico,Tecnología,2,280000,0.00,205000,560000,410000,150000
+V00664,2025-07-26,C0038,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,7,280000,0.00,205000,1960000,1435000,525000
+V00665,2025-07-27,C0207,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.10,9000,102600,54000,48600
+V00666,2025-07-27,C0079,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.00,79000,1000000,632000,368000
+V00667,2025-07-28,C0191,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.05,74000,836000,592000,244000
+V00668,2025-07-29,C0132,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,3,24000,0.00,11200,72000,33600,38400
+V00669,2025-07-30,C0012,Luque,Luque,Tienda física,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V00670,2025-07-31,C0123,Asunción Centro,Asunción,WhatsApp,TEC-004,Webcam HD,Tecnología,4,245000,0.20,166000,784000,664000,120000
+V00671,2025-08-01,C0024,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.30,25800,235200,206400,28800
+V00672,2025-08-02,C0080,San Lorenzo,San Lorenzo,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.05,74000,209000,148000,61000
+V00673,2025-08-03,C0018,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,5,245000,0.00,166000,1225000,830000,395000
+V00674,2025-08-03,C0193,Luque,Luque,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.15,18500,30175,18500,11675
+V00675,2025-08-04,C0015,San Lorenzo,San Lorenzo,WhatsApp,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V00676,2025-08-05,C0187,Encarnación,Encarnación,Online,OFI-001,Resma papel A4,Oficina,1,42000,0.10,25800,37800,25800,12000
+V00677,2025-08-06,C0187,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.00,79000,250000,158000,92000
+V00678,2025-08-07,C0195,Asunción Centro,Asunción,WhatsApp,TEC-002,Teclado mecánico,Tecnología,3,280000,0.30,205000,588000,615000,-27000
+V00679,2025-08-08,C0119,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,5,245000,0.00,166000,1225000,830000,395000
+V00680,2025-08-09,C0154,San Lorenzo,San Lorenzo,Online,OFI-001,Resma papel A4,Oficina,3,42000,0.05,25800,119700,77400,42300
+V00681,2025-08-09,C0204,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.15,31500,326400,189000,137400
+V00682,2025-08-10,C0050,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.00,123000,195000,123000,72000
+V00683,2025-08-11,C0110,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.15,55500,578000,444000,134000
+V00684,2025-08-12,C0118,Asunción Centro,Asunción,Online,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.00,55500,680000,444000,236000
+V00685,2025-08-13,C0093,Luque,Luque,Online,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.20,123000,1092000,861000,231000
+V00686,2025-08-14,C0207,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.10,11200,151200,78400,72800
+V00687,2025-08-15,C0060,Encarnación,Encarnación,WhatsApp,HOG-002,Organizador multiuso,Hogar,4,64000,0.00,31500,256000,126000,130000
+V00688,2025-08-15,C0035,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.00,31500,448000,220500,227500
+V00689,2025-08-16,C0170,Encarnación,Encarnación,Online,TEC-002,Teclado mecánico,Tecnología,2,280000,0.05,205000,532000,410000,122000
+V00690,2025-08-17,C0147,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.00,79000,750000,474000,276000
+V00691,2025-08-18,C0118,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.20,55500,136000,111000,25000
+V00692,2025-08-19,C0200,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.10,55500,229500,166500,63000
+V00693,2025-08-20,C0204,San Lorenzo,San Lorenzo,Online,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V00694,2025-08-21,C0087,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.00,123000,390000,246000,144000
+V00695,2025-08-21,C0060,Luque,Luque,Online,TEC-002,Teclado mecánico,Tecnología,2,280000,0.00,205000,560000,410000,150000
+V00696,2025-08-22,C0186,Luque,Luque,Tienda física,HOG-003,Botella térmica 750ml,Hogar,3,110000,0.10,74000,297000,222000,75000
+V00697,2025-08-23,C0101,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.00,205000,1120000,820000,300000
+V00698,2025-08-24,C0130,Encarnación,Encarnación,Online,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.05,123000,741000,492000,249000
+V00699,2025-08-25,C0115,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,5,19000,0.20,9000,76000,45000,31000
+V00700,2025-08-26,C0206,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.00,55500,85000,55500,29500
+V00701,2025-08-27,C0172,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.10,18500,191700,111000,80700
+V00702,2025-08-28,C0083,Encarnación,Encarnación,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.20,166000,392000,332000,60000
+V00703,2025-08-28,C0019,Encarnación,Encarnación,Online,TEC-002,Teclado mecánico,Tecnología,6,280000,0.10,205000,1512000,1230000,282000
+V00704,2025-08-29,C0155,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.15,36500,57800,36500,21300
+V00705,2025-08-30,C0044,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.05,166000,698250,498000,200250
+V00706,2025-08-31,C0147,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.00,74000,220000,148000,72000
+V00707,2025-09-01,C0075,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-001,Resma papel A4,Oficina,6,42000,0.00,25800,252000,154800,97200
+V00708,2025-09-02,C0023,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.10,31500,57600,31500,26100
+V00709,2025-09-03,C0004,Luque,Luque,Online,OFI-001,Resma papel A4,Oficina,5,42000,0.00,25800,210000,129000,81000
+V00710,2025-09-03,C0160,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.20,74000,176000,148000,28000
+V00711,2025-09-04,C0141,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.10,79000,900000,632000,268000
+V00712,2025-09-05,C0024,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.10,36500,122400,73000,49400
+V00713,2025-09-06,C0081,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.15,31500,380800,220500,160300
+V00714,2025-09-07,C0157,Asunción Centro,Asunción,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.00,25800,252000,154800,97200
+V00715,2025-09-08,C0205,San Lorenzo,San Lorenzo,Online,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.00,55500,680000,444000,236000
+V00716,2025-09-09,C0006,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,3,64000,0.10,31500,172800,94500,78300
+V00717,2025-09-09,C0019,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,3,24000,0.05,11200,68400,33600,34800
+V00718,2025-09-10,C0185,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.00,55500,680000,444000,236000
+V00719,2025-09-11,C0183,Luque,Luque,WhatsApp,TEC-004,Webcam HD,Tecnología,5,245000,0.10,166000,1102500,830000,272500
+V00720,2025-09-12,C0018,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,5,68000,0.00,36500,340000,182500,157500
+V00721,2025-09-13,C0130,Luque,Luque,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.10,18500,31950,18500,13450
+V00722,2025-09-14,C0018,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-003,Cuaderno universitario,Oficina,6,24000,0.00,11200,144000,67200,76800
+V00723,2025-09-15,C0145,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,7,68000,0.00,36500,476000,255500,220500
+V00724,2025-09-16,C0076,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.00,79000,250000,158000,92000
+V00725,2025-09-16,C0039,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.15,18500,211225,129500,81725
+V00726,2025-09-17,C0161,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V00727,2025-09-18,C0074,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.10,123000,1404000,984000,420000
+V00728,2025-09-19,C0046,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.10,79000,787500,553000,234500
+V00729,2025-09-20,C0086,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.10,123000,702000,492000,210000
+V00730,2025-09-21,C0058,Luque,Luque,Online,OFI-001,Resma papel A4,Oficina,5,42000,0.00,25800,210000,129000,81000
+V00731,2025-09-22,C0161,Asunción Centro,Asunción,WhatsApp,OFI-001,Resma papel A4,Oficina,1,42000,0.10,25800,37800,25800,12000
+V00732,2025-09-22,C0080,Asunción Centro,Asunción,Tienda física,OFI-001,Resma papel A4,Oficina,2,42000,0.00,25800,84000,51600,32400
+V00733,2025-09-23,C0144,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.10,79000,675000,474000,201000
+V00734,2025-09-24,C0087,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.10,123000,526500,369000,157500
+V00735,2025-09-25,C0031,Luque,Luque,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.05,18500,168625,92500,76125
+V00736,2025-09-26,C0171,Luque,Luque,Online,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.00,55500,425000,277500,147500
+V00737,2025-09-27,C0072,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.00,123000,1560000,984000,576000
+V00738,2025-09-28,C0021,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.00,36500,136000,73000,63000
+V00739,2025-09-28,C0126,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,2,24000,0.00,11200,48000,22400,25600
+V00740,2025-09-29,C0049,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-001,Resma papel A4,Oficina,6,42000,0.00,25800,252000,154800,97200
+V00741,2025-09-30,C0085,Luque,Luque,Tienda física,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.10,74000,396000,296000,100000
+V00742,2025-10-01,C0129,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.15,11200,142800,78400,64400
+V00743,2025-10-02,C0003,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.05,18500,101175,55500,45675
+V00744,2025-10-03,C0079,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.05,74000,104500,74000,30500
+V00745,2025-10-04,C0132,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,4,19000,0.15,9000,64600,36000,28600
+V00746,2025-10-04,C0198,Encarnación,Encarnación,Online,OFI-004,Carpeta archivadora,Oficina,6,19000,0.20,9000,91200,54000,37200
+V00747,2025-10-05,C0064,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.15,123000,497250,369000,128250
+V00748,2025-10-06,C0023,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.20,55500,408000,333000,75000
+V00749,2025-10-07,C0084,Asunción Centro,Asunción,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00750,2025-10-08,C0126,San Lorenzo,San Lorenzo,WhatsApp,HOG-002,Organizador multiuso,Hogar,7,64000,0.30,31500,313600,220500,93100
+V00751,2025-10-09,C0124,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-004,Carpeta archivadora,Oficina,3,19000,0.00,9000,57000,27000,30000
+V00752,2025-10-10,C0056,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.20,123000,1248000,984000,264000
+V00753,2025-10-11,C0137,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-003,Cuaderno universitario,Oficina,8,24000,0.10,11200,172800,89600,83200
+V00754,2025-10-11,C0108,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.00,9000,57000,27000,30000
+V00755,2025-10-12,C0004,Ciudad del Este,Ciudad del Este,Online,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.10,123000,702000,492000,210000
+V00756,2025-10-13,C0105,Luque,Luque,WhatsApp,TEC-002,Teclado mecánico,Tecnología,1,280000,0.20,205000,224000,205000,19000
+V00757,2025-10-14,C0035,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.30,79000,262500,237000,25500
+V00758,2025-10-15,C0016,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.05,79000,237500,158000,79500
+V00759,2025-10-16,C0003,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,4,19000,0.00,9000,76000,36000,40000
+V00760,2025-10-17,C0199,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,1,85000,0.10,55500,76500,55500,21000
+V00761,2025-10-17,C0209,Asunción Centro,Asunción,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.05,18500,236075,129500,106575
+V00762,2025-10-18,C0122,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.00,11200,144000,67200,76800
+V00763,2025-10-19,C0131,San Lorenzo,San Lorenzo,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V00764,2025-10-20,C0139,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.20,18500,85200,55500,29700
+V00765,2025-10-21,C0118,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.15,79000,743750,553000,190750
+V00766,2025-10-22,C0099,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,3,280000,0.00,205000,840000,615000,225000
+V00767,2025-10-23,C0007,San Lorenzo,San Lorenzo,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,7,85000,0.00,55500,595000,388500,206500
+V00768,2025-10-23,C0075,Encarnación,Encarnación,Online,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.00,36500,272000,146000,126000
+V00769,2025-10-24,C0148,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.00,36500,136000,73000,63000
+V00770,2025-10-25,C0061,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,7,245000,0.00,166000,1715000,1162000,553000
+V00771,2025-10-26,C0191,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.00,166000,735000,498000,237000
+V00772,2025-10-27,C0175,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.15,166000,624750,498000,126750
+V00773,2025-10-28,C0053,Encarnación,Encarnación,WhatsApp,HOG-002,Organizador multiuso,Hogar,1,64000,0.10,31500,57600,31500,26100
+V00774,2025-10-29,C0173,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,5,280000,0.05,205000,1330000,1025000,305000
+V00775,2025-10-29,C0200,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.00,18500,284000,148000,136000
+V00776,2025-10-30,C0124,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.05,18500,101175,55500,45675
+V00777,2025-10-31,C0151,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.10,123000,877500,615000,262500
+V00778,2025-11-01,C0027,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,6,245000,0.00,166000,1470000,996000,474000
+V00779,2025-11-02,C0161,San Lorenzo,San Lorenzo,Online,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.10,55500,153000,111000,42000
+V00780,2025-11-03,C0036,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.00,123000,195000,123000,72000
+V00781,2025-11-04,C0208,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.00,18500,284000,148000,136000
+V00782,2025-11-05,C0096,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.15,18500,241400,148000,93400
+V00783,2025-11-05,C0068,Luque,Luque,Online,TEC-002,Teclado mecánico,Tecnología,6,280000,0.15,205000,1428000,1230000,198000
+V00784,2025-11-06,C0075,Encarnación,Encarnación,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.05,79000,237500,158000,79500
+V00785,2025-11-07,C0139,Encarnación,Encarnación,WhatsApp,HOG-002,Organizador multiuso,Hogar,2,64000,0.05,31500,121600,63000,58600
+V00786,2025-11-08,C0118,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,7,42000,0.00,25800,294000,180600,113400
+V00787,2025-11-09,C0150,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.05,166000,698250,498000,200250
+V00788,2025-11-10,C0188,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-004,Webcam HD,Tecnología,2,245000,0.05,166000,465500,332000,133500
+V00789,2025-11-11,C0097,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.00,31500,384000,189000,195000
+V00790,2025-11-11,C0041,Luque,Luque,Online,TEC-004,Webcam HD,Tecnología,4,245000,0.00,166000,980000,664000,316000
+V00791,2025-11-12,C0191,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.00,25800,336000,206400,129600
+V00792,2025-11-13,C0128,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.00,18500,35500,18500,17000
+V00793,2025-11-14,C0127,San Lorenzo,San Lorenzo,Tienda física,OFI-001,Resma papel A4,Oficina,3,42000,0.05,25800,119700,77400,42300
+V00794,2025-11-15,C0022,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.15,55500,578000,444000,134000
+V00795,2025-11-16,C0108,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.05,31500,425600,220500,205100
+V00796,2025-11-17,C0194,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,1,19000,0.15,9000,16150,9000,7150
+V00797,2025-11-17,C0015,Asunción Centro,Asunción,WhatsApp,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V00798,2025-11-18,C0167,Encarnación,Encarnación,Online,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.00,123000,195000,123000,72000
+V00799,2025-11-19,C0117,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,7,19000,0.30,9000,93100,63000,30100
+V00800,2025-11-20,C0180,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.30,123000,273000,246000,27000
+V00801,2025-11-21,C0058,Asunción Centro,Asunción,Online,HOG-002,Organizador multiuso,Hogar,2,64000,0.00,31500,128000,63000,65000
+V00802,2025-11-22,C0047,San Lorenzo,San Lorenzo,WhatsApp,OFI-003,Cuaderno universitario,Oficina,5,24000,0.15,11200,102000,56000,46000
+V00803,2025-11-23,C0007,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.05,55500,242250,166500,75750
+V00804,2025-11-23,C0028,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V00805,2025-11-24,C0196,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.20,55500,340000,277500,62500
+V00806,2025-11-25,C0067,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.00,18500,106500,55500,51000
+V00807,2025-11-26,C0058,Asunción Centro,Asunción,WhatsApp,OFI-003,Cuaderno universitario,Oficina,6,24000,0.15,11200,122400,67200,55200
+V00808,2025-11-27,C0080,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,8,245000,0.05,166000,1862000,1328000,534000
+V00809,2025-11-28,C0200,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V00810,2025-11-29,C0197,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.00,74000,880000,592000,288000
+V00811,2025-11-30,C0117,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V00812,2025-11-30,C0109,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.10,123000,351000,246000,105000
+V00813,2025-12-01,C0204,Encarnación,Encarnación,Online,OFI-003,Cuaderno universitario,Oficina,8,24000,0.00,11200,192000,89600,102400
+V00814,2025-12-02,C0208,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,7,19000,0.00,9000,133000,63000,70000
+V00815,2025-12-03,C0134,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-004,Webcam HD,Tecnología,8,245000,0.10,166000,1764000,1328000,436000
+V00816,2025-12-04,C0122,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.15,18500,120700,74000,46700
+V00817,2025-12-05,C0002,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,1,19000,0.00,9000,19000,9000,10000
+V00818,2025-12-06,C0191,San Lorenzo,San Lorenzo,WhatsApp,TEC-002,Teclado mecánico,Tecnología,1,280000,0.20,205000,224000,205000,19000
+V00819,2025-12-06,C0090,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,8,24000,0.05,11200,182400,89600,92800
+V00820,2025-12-07,C0171,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,2,24000,0.00,11200,48000,22400,25600
+V00821,2025-12-08,C0202,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.00,79000,875000,553000,322000
+V00822,2025-12-09,C0017,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V00823,2025-12-10,C0112,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.00,36500,544000,292000,252000
+V00824,2025-12-11,C0184,Encarnación,Encarnación,WhatsApp,TEC-002,Teclado mecánico,Tecnología,1,280000,0.00,205000,280000,205000,75000
+V00825,2025-12-12,C0087,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.05,79000,593750,395000,198750
+V00826,2025-12-12,C0021,Asunción Centro,Asunción,Online,OFI-001,Resma papel A4,Oficina,6,42000,0.05,25800,239400,154800,84600
+V00827,2025-12-13,C0126,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V00828,2025-12-14,C0128,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,1,24000,0.00,11200,24000,11200,12800
+V00829,2025-12-15,C0157,San Lorenzo,San Lorenzo,Online,TEC-004,Webcam HD,Tecnología,5,245000,0.00,166000,1225000,830000,395000
+V00830,2025-12-16,C0151,San Lorenzo,San Lorenzo,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.05,31500,243200,126000,117200
+V00831,2025-12-17,C0079,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-002,Organizador multiuso,Hogar,2,64000,0.15,31500,108800,63000,45800
+V00832,2025-12-18,C0175,San Lorenzo,San Lorenzo,WhatsApp,OFI-003,Cuaderno universitario,Oficina,3,24000,0.15,11200,61200,33600,27600
+V00833,2025-12-19,C0183,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,7,19000,0.00,9000,133000,63000,70000
+V00834,2025-12-19,C0059,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.20,79000,700000,553000,147000
+V00835,2025-12-20,C0179,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.15,74000,374000,296000,78000
+V00836,2025-12-21,C0169,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.05,123000,1111500,738000,373500
+V00837,2025-12-22,C0135,Encarnación,Encarnación,Online,HOG-003,Botella térmica 750ml,Hogar,7,110000,0.00,74000,770000,518000,252000
+V00838,2025-12-23,C0187,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.15,11200,142800,78400,64400
+V00839,2025-12-24,C0136,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.30,166000,343000,332000,11000
+V00840,2025-12-25,C0153,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,6,19000,0.00,9000,114000,54000,60000
+V00841,2025-12-25,C0038,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.10,55500,153000,111000,42000
+V00842,2025-12-26,C0022,San Lorenzo,San Lorenzo,Online,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.00,79000,375000,237000,138000
+V00843,2025-12-27,C0100,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.00,11200,144000,67200,76800
+V00844,2025-12-28,C0046,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,7,245000,0.00,166000,1715000,1162000,553000
+V00845,2025-12-29,C0005,San Lorenzo,San Lorenzo,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.00,55500,340000,222000,118000
+V00846,2025-12-30,C0022,Luque,Luque,Tienda física,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.00,74000,550000,370000,180000
+V00847,2025-12-31,C0018,Luque,Luque,WhatsApp,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.20,55500,204000,166500,37500
+V00848,2025-12-31,C0064,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.00,74000,660000,444000,216000
+V00849,2026-01-01,C0068,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.15,36500,462400,292000,170400
+V00850,2026-01-02,C0078,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.10,36500,183600,109500,74100
+V00851,2026-01-03,C0022,Encarnación,Encarnación,WhatsApp,OFI-003,Cuaderno universitario,Oficina,1,24000,0.15,11200,20400,11200,9200
+V00852,2026-01-04,C0105,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,6,245000,0.20,166000,1176000,996000,180000
+V00853,2026-01-05,C0052,Encarnación,Encarnación,Online,TEC-004,Webcam HD,Tecnología,3,245000,0.00,166000,735000,498000,237000
+V00854,2026-01-06,C0008,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.15,18500,60350,37000,23350
+V00855,2026-01-06,C0133,San Lorenzo,San Lorenzo,Online,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.05,18500,101175,55500,45675
+V00856,2026-01-07,C0186,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.05,9000,144400,72000,72400
+V00857,2026-01-08,C0035,Ciudad del Este,Ciudad del Este,Online,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.10,36500,61200,36500,24700
+V00858,2026-01-09,C0162,Luque,Luque,Online,OFI-003,Cuaderno universitario,Oficina,6,24000,0.10,11200,129600,67200,62400
+V00859,2026-01-10,C0207,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.00,166000,245000,166000,79000
+V00860,2026-01-11,C0022,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.05,74000,522500,370000,152500
+V00861,2026-01-12,C0120,Ciudad del Este,Ciudad del Este,Online,OFI-003,Cuaderno universitario,Oficina,4,24000,0.00,11200,96000,44800,51200
+V00862,2026-01-13,C0202,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.05,18500,67450,37000,30450
+V00863,2026-01-13,C0132,Asunción Centro,Asunción,Online,TEC-002,Teclado mecánico,Tecnología,1,280000,0.00,205000,280000,205000,75000
+V00864,2026-01-14,C0014,Luque,Luque,Online,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.00,55500,170000,111000,59000
+V00865,2026-01-15,C0033,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.05,79000,237500,158000,79500
+V00866,2026-01-16,C0110,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-001,Resma papel A4,Oficina,7,42000,0.10,25800,264600,180600,84000
+V00867,2026-01-17,C0093,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,3,280000,0.15,205000,714000,615000,99000
+V00868,2026-01-18,C0001,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V00869,2026-01-19,C0136,Asunción Centro,Asunción,WhatsApp,TEC-002,Teclado mecánico,Tecnología,6,280000,0.10,205000,1512000,1230000,282000
+V00870,2026-01-19,C0039,Luque,Luque,Online,TEC-004,Webcam HD,Tecnología,3,245000,0.10,166000,661500,498000,163500
+V00871,2026-01-20,C0024,San Lorenzo,San Lorenzo,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V00872,2026-01-21,C0152,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,7,68000,0.00,36500,476000,255500,220500
+V00873,2026-01-22,C0196,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.05,9000,54150,27000,27150
+V00874,2026-01-23,C0031,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,3,64000,0.15,31500,163200,94500,68700
+V00875,2026-01-24,C0093,Luque,Luque,Online,OFI-001,Resma papel A4,Oficina,3,42000,0.10,25800,113400,77400,36000
+V00876,2026-01-25,C0085,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,3,64000,0.00,31500,192000,94500,97500
+V00877,2026-01-25,C0190,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V00878,2026-01-26,C0056,Asunción Centro,Asunción,Online,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.20,55500,544000,444000,100000
+V00879,2026-01-27,C0032,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V00880,2026-01-28,C0083,Luque,Luque,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.10,205000,1008000,820000,188000
+V00881,2026-01-29,C0080,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,3,110000,0.30,74000,231000,222000,9000
+V00882,2026-01-30,C0124,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.00,55500,425000,277500,147500
+V00883,2026-01-31,C0102,Ciudad del Este,Ciudad del Este,Online,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.00,74000,880000,592000,288000
+V00884,2026-01-31,C0093,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.05,79000,475000,316000,159000
+V00885,2026-02-01,C0013,San Lorenzo,San Lorenzo,Online,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.10,18500,63900,37000,26900
+V00886,2026-02-02,C0195,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.10,123000,175500,123000,52500
+V00887,2026-02-03,C0005,San Lorenzo,San Lorenzo,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.15,18500,181050,111000,70050
+V00888,2026-02-04,C0044,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,6,280000,0.10,205000,1512000,1230000,282000
+V00889,2026-02-05,C0001,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V00890,2026-02-06,C0175,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.00,166000,245000,166000,79000
+V00891,2026-02-07,C0134,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,5,24000,0.00,11200,120000,56000,64000
+V00892,2026-02-07,C0201,Encarnación,Encarnación,WhatsApp,TEC-004,Webcam HD,Tecnología,5,245000,0.00,166000,1225000,830000,395000
+V00893,2026-02-08,C0158,Asunción Centro,Asunción,Online,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V00894,2026-02-09,C0064,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.15,31500,54400,31500,22900
+V00895,2026-02-10,C0061,Luque,Luque,Online,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.00,36500,204000,109500,94500
+V00896,2026-02-11,C0076,Ciudad del Este,Ciudad del Este,Online,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.10,55500,459000,333000,126000
+V00897,2026-02-12,C0188,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,3,64000,0.10,31500,172800,94500,78300
+V00898,2026-02-13,C0101,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,2,280000,0.10,205000,504000,410000,94000
+V00899,2026-02-13,C0140,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.00,79000,875000,553000,322000
+V00900,2026-02-14,C0178,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.05,36500,387600,219000,168600
+V00901,2026-02-15,C0022,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.10,18500,31950,18500,13450
+V00902,2026-02-16,C0029,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.10,25800,151200,103200,48000
+V00903,2026-02-17,C0143,Encarnación,Encarnación,WhatsApp,HOG-002,Organizador multiuso,Hogar,1,64000,0.00,31500,64000,31500,32500
+V00904,2026-02-18,C0118,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.10,79000,675000,474000,201000
+V00905,2026-02-19,C0145,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,5,19000,0.00,9000,95000,45000,50000
+V00906,2026-02-19,C0028,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.05,18500,269800,148000,121800
+V00907,2026-02-20,C0135,Asunción Centro,Asunción,Online,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.10,36500,122400,73000,49400
+V00908,2026-02-21,C0096,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.10,123000,1053000,738000,315000
+V00909,2026-02-22,C0131,Asunción Centro,Asunción,WhatsApp,HOG-002,Organizador multiuso,Hogar,7,64000,0.00,31500,448000,220500,227500
+V00910,2026-02-23,C0147,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.05,18500,134900,74000,60900
+V00911,2026-02-24,C0172,Ciudad del Este,Ciudad del Este,Online,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V00912,2026-02-25,C0053,Asunción Centro,Asunción,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.20,79000,400000,316000,84000
+V00913,2026-02-25,C0144,Encarnación,Encarnación,WhatsApp,OFI-004,Carpeta archivadora,Oficina,7,19000,0.20,9000,106400,63000,43400
+V00914,2026-02-26,C0124,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-002,Organizador multiuso,Hogar,8,64000,0.20,31500,409600,252000,157600
+V00915,2026-02-27,C0105,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.15,9000,48450,27000,21450
+V00916,2026-02-28,C0039,Luque,Luque,Online,OFI-001,Resma papel A4,Oficina,7,42000,0.00,25800,294000,180600,113400
+V00917,2026-03-01,C0097,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,5,195000,0.10,123000,877500,615000,262500
+V00918,2026-03-02,C0022,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-003,Cuaderno universitario,Oficina,5,24000,0.10,11200,108000,56000,52000
+V00919,2026-03-03,C0089,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-002,Organizador multiuso,Hogar,1,64000,0.00,31500,64000,31500,32500
+V00920,2026-03-04,C0162,Asunción Centro,Asunción,Online,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.00,79000,750000,474000,276000
+V00921,2026-03-04,C0013,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.00,79000,375000,237000,138000
+V00922,2026-03-05,C0135,Asunción Centro,Asunción,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.00,79000,875000,553000,322000
+V00923,2026-03-06,C0037,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,1,64000,0.00,31500,64000,31500,32500
+V00924,2026-03-07,C0097,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,7,64000,0.00,31500,448000,220500,227500
+V00925,2026-03-08,C0014,Asunción Centro,Asunción,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.10,36500,489600,292000,197600
+V00926,2026-03-09,C0140,Encarnación,Encarnación,Online,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.05,55500,484500,333000,151500
+V00927,2026-03-10,C0008,Encarnación,Encarnación,Online,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.00,79000,250000,158000,92000
+V00928,2026-03-10,C0047,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.15,36500,115600,73000,42600
+V00929,2026-03-11,C0114,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.15,9000,129200,72000,57200
+V00930,2026-03-12,C0016,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.30,11200,100800,67200,33600
+V00931,2026-03-13,C0062,San Lorenzo,San Lorenzo,Online,TEC-001,Mouse inalámbrico,Tecnología,6,85000,0.10,55500,459000,333000,126000
+V00932,2026-03-14,C0133,Encarnación,Encarnación,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.05,55500,403750,277500,126250
+V00933,2026-03-15,C0191,Luque,Luque,Tienda física,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.00,74000,440000,296000,144000
+V00934,2026-03-16,C0040,San Lorenzo,San Lorenzo,WhatsApp,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V00935,2026-03-16,C0055,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.15,36500,173400,109500,63900
+V00936,2026-03-17,C0144,Asunción Centro,Asunción,Online,OFI-004,Carpeta archivadora,Oficina,5,19000,0.10,9000,85500,45000,40500
+V00937,2026-03-18,C0142,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.15,31500,435200,252000,183200
+V00938,2026-03-19,C0202,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.00,79000,250000,158000,92000
+V00939,2026-03-20,C0207,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,6,245000,0.15,166000,1249500,996000,253500
+V00940,2026-03-21,C0189,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.05,18500,168625,92500,76125
+V00941,2026-03-22,C0020,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.05,79000,950000,632000,318000
+V00942,2026-03-23,C0071,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.15,123000,1326000,984000,342000
+V00943,2026-03-23,C0035,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.05,36500,516800,292000,224800
+V00944,2026-03-24,C0003,Asunción Centro,Asunción,Tienda física,OFI-001,Resma papel A4,Oficina,5,42000,0.20,25800,168000,129000,39000
+V00945,2026-03-25,C0168,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,6,24000,0.15,11200,122400,67200,55200
+V00946,2026-03-26,C0046,San Lorenzo,San Lorenzo,Tienda física,OFI-001,Resma papel A4,Oficina,7,42000,0.15,25800,249900,180600,69300
+V00947,2026-03-27,C0052,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.30,166000,343000,332000,11000
+V00948,2026-03-28,C0113,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.00,79000,250000,158000,92000
+V00949,2026-03-29,C0202,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,5,68000,0.15,36500,289000,182500,106500
+V00950,2026-03-29,C0205,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,8,24000,0.15,11200,163200,89600,73600
+V00951,2026-03-30,C0106,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,6,245000,0.00,166000,1470000,996000,474000
+V00952,2026-03-31,C0016,San Lorenzo,San Lorenzo,Tienda física,OFI-004,Carpeta archivadora,Oficina,7,19000,0.00,9000,133000,63000,70000
+V00953,2026-04-01,C0033,Encarnación,Encarnación,Online,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.15,123000,1160250,861000,299250
+V00954,2026-04-02,C0110,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.00,123000,585000,369000,216000
+V00955,2026-04-03,C0091,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.00,36500,272000,146000,126000
+V00956,2026-04-04,C0192,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.05,18500,202350,111000,91350
+V00957,2026-04-04,C0114,Encarnación,Encarnación,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,5,68000,0.10,36500,306000,182500,123500
+V00958,2026-04-05,C0065,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,8,245000,0.00,166000,1960000,1328000,632000
+V00959,2026-04-06,C0166,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.05,9000,36100,18000,18100
+V00960,2026-04-07,C0090,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,3,24000,0.15,11200,61200,33600,27600
+V00961,2026-04-08,C0040,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,3,280000,0.10,205000,756000,615000,141000
+V00962,2026-04-09,C0070,Ciudad del Este,Ciudad del Este,Tienda física,OFI-003,Cuaderno universitario,Oficina,4,24000,0.05,11200,91200,44800,46400
+V00963,2026-04-10,C0168,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.15,79000,425000,316000,109000
+V00964,2026-04-10,C0159,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.05,166000,232750,166000,66750
+V00965,2026-04-11,C0202,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.00,18500,284000,148000,136000
+V00966,2026-04-12,C0204,Ciudad del Este,Ciudad del Este,Online,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.20,36500,435200,292000,143200
+V00967,2026-04-13,C0183,San Lorenzo,San Lorenzo,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.10,31500,460800,252000,208800
+V00968,2026-04-14,C0001,Asunción Centro,Asunción,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.15,25800,285600,206400,79200
+V00969,2026-04-15,C0007,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V00970,2026-04-16,C0004,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V00971,2026-04-17,C0164,Encarnación,Encarnación,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.00,123000,390000,246000,144000
+V00972,2026-04-17,C0011,Asunción Centro,Asunción,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,5,68000,0.05,36500,323000,182500,140500
+V00973,2026-04-18,C0093,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.00,36500,68000,36500,31500
+V00974,2026-04-19,C0070,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.00,25800,168000,103200,64800
+V00975,2026-04-20,C0059,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.00,123000,780000,492000,288000
+V00976,2026-04-21,C0145,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,8,35500,0.20,18500,227200,148000,79200
+V00977,2026-04-22,C0103,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.00,74000,880000,592000,288000
+V00978,2026-04-23,C0153,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,2,64000,0.10,31500,115200,63000,52200
+V00979,2026-04-23,C0033,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,5,24000,0.30,11200,84000,56000,28000
+V00980,2026-04-24,C0158,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,3,110000,0.00,74000,330000,222000,108000
+V00981,2026-04-25,C0042,Luque,Luque,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.20,123000,1248000,984000,264000
+V00982,2026-04-26,C0157,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.00,18500,248500,129500,119000
+V00983,2026-04-27,C0207,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.15,31500,326400,189000,137400
+V00984,2026-04-28,C0016,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.10,55500,306000,222000,84000
+V00985,2026-04-29,C0083,Encarnación,Encarnación,Online,TEC-004,Webcam HD,Tecnología,7,245000,0.00,166000,1715000,1162000,553000
+V00986,2026-04-29,C0050,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,1,64000,0.10,31500,57600,31500,26100
+V00987,2026-04-30,C0197,Encarnación,Encarnación,Online,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.00,74000,220000,148000,72000
+V00988,2026-05-01,C0124,Asunción Centro,Asunción,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.20,79000,400000,316000,84000
+V00989,2026-05-02,C0204,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-002,Teclado mecánico,Tecnología,5,280000,0.00,205000,1400000,1025000,375000
+V00990,2026-05-03,C0031,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,2,24000,0.05,11200,45600,22400,23200
+V00991,2026-05-04,C0002,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.15,31500,217600,126000,91600
+V00992,2026-05-05,C0147,Luque,Luque,WhatsApp,OFI-003,Cuaderno universitario,Oficina,6,24000,0.05,11200,136800,67200,69600
+V00993,2026-05-05,C0134,Luque,Luque,Online,TEC-001,Mouse inalámbrico,Tecnología,2,85000,0.10,55500,153000,111000,42000
+V00994,2026-05-06,C0194,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,7,280000,0.00,205000,1960000,1435000,525000
+V00995,2026-05-07,C0177,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.05,36500,129200,73000,56200
+V00996,2026-05-08,C0092,Encarnación,Encarnación,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.00,18500,106500,55500,51000
+V00997,2026-05-09,C0164,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.10,79000,900000,632000,268000
+V00998,2026-05-10,C0017,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.00,36500,544000,292000,252000
+V00999,2026-05-11,C0003,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,3,68000,0.20,36500,163200,109500,53700
+V01000,2026-05-12,C0138,Asunción Centro,Asunción,Online,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.15,74000,748000,592000,156000
+V01001,2026-05-12,C0116,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,6,35500,0.00,18500,213000,111000,102000
+V01002,2026-05-13,C0160,Encarnación,Encarnación,Online,OFI-003,Cuaderno universitario,Oficina,1,24000,0.00,11200,24000,11200,12800
+V01003,2026-05-14,C0207,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V01004,2026-05-15,C0197,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.10,123000,1053000,738000,315000
+V01005,2026-05-16,C0210,Asunción Centro,Asunción,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,5,68000,0.00,36500,340000,182500,157500
+V01006,2026-05-17,C0088,Encarnación,Encarnación,WhatsApp,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V01007,2026-05-18,C0040,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.00,74000,220000,148000,72000
+V01008,2026-05-18,C0093,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,8,245000,0.10,166000,1764000,1328000,436000
+V01009,2026-05-19,C0056,Encarnación,Encarnación,WhatsApp,TEC-004,Webcam HD,Tecnología,8,245000,0.15,166000,1666000,1328000,338000
+V01010,2026-05-20,C0045,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.20,79000,400000,316000,84000
+V01011,2026-05-21,C0140,Ciudad del Este,Ciudad del Este,Online,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.00,79000,375000,237000,138000
+V01012,2026-05-22,C0187,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.20,31500,358400,220500,137900
+V01013,2026-05-23,C0134,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,7,280000,0.05,205000,1862000,1435000,427000
+V01014,2026-05-24,C0181,Asunción Centro,Asunción,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.20,74000,176000,148000,28000
+V01015,2026-05-24,C0121,Encarnación,Encarnación,WhatsApp,HOG-002,Organizador multiuso,Hogar,6,64000,0.10,31500,345600,189000,156600
+V01016,2026-05-25,C0210,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.05,74000,836000,592000,244000
+V01017,2026-05-26,C0057,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V01018,2026-05-27,C0007,Encarnación,Encarnación,Online,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.20,36500,435200,292000,143200
+V01019,2026-05-28,C0137,Encarnación,Encarnación,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.05,79000,831250,553000,278250
+V01020,2026-05-29,C0192,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,1,64000,0.05,31500,60800,31500,29300
+V01021,2026-05-30,C0184,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,2,64000,0.00,31500,128000,63000,65000
+V01022,2026-05-30,C0118,Encarnación,Encarnación,Online,TEC-002,Teclado mecánico,Tecnología,7,280000,0.00,205000,1960000,1435000,525000
+V01023,2026-05-31,C0106,Luque,Luque,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.00,74000,880000,592000,288000
+V01024,2026-06-01,C0036,Luque,Luque,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,3,85000,0.20,55500,204000,166500,37500
+V01025,2026-06-02,C0013,Encarnación,Encarnación,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.20,74000,704000,592000,112000
+V01026,2026-06-03,C0062,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.00,18500,248500,129500,119000
+V01027,2026-06-04,C0210,San Lorenzo,San Lorenzo,Online,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.10,18500,95850,55500,40350
+V01028,2026-06-05,C0159,Ciudad del Este,Ciudad del Este,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.20,36500,435200,292000,143200
+V01029,2026-06-06,C0091,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,4,125000,0.10,79000,450000,316000,134000
+V01030,2026-06-06,C0096,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,7,64000,0.30,31500,313600,220500,93100
+V01031,2026-06-07,C0006,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,1,195000,0.20,123000,156000,123000,33000
+V01032,2026-06-08,C0096,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,3,24000,0.10,11200,64800,33600,31200
+V01033,2026-06-09,C0072,San Lorenzo,San Lorenzo,Online,HOG-002,Organizador multiuso,Hogar,1,64000,0.00,31500,64000,31500,32500
+V01034,2026-06-10,C0064,Asunción Centro,Asunción,WhatsApp,HOG-002,Organizador multiuso,Hogar,3,64000,0.30,31500,134400,94500,39900
+V01035,2026-06-11,C0208,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.10,123000,1053000,738000,315000
+V01036,2026-06-12,C0132,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,7,42000,0.20,25800,235200,180600,54600
+V01037,2026-06-12,C0144,Asunción Centro,Asunción,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.00,25800,168000,103200,64800
+V01038,2026-06-13,C0017,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.05,166000,465500,332000,133500
+V01039,2026-06-14,C0145,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.00,36500,408000,219000,189000
+V01040,2026-06-15,C0171,San Lorenzo,San Lorenzo,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.10,123000,526500,369000,157500
+V01041,2026-06-16,C0091,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.15,25800,214200,154800,59400
+V01042,2026-06-17,C0208,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,7,85000,0.00,55500,595000,388500,206500
+V01043,2026-06-18,C0009,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.15,25800,142800,103200,39600
+V01044,2026-06-18,C0124,Asunción Centro,Asunción,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,3,195000,0.20,123000,468000,369000,99000
+V01045,2026-06-19,C0039,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.20,18500,198800,129500,69300
+V01046,2026-06-20,C0166,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V01047,2026-06-21,C0187,Ciudad del Este,Ciudad del Este,Online,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.00,55500,340000,222000,118000
+V01048,2026-06-22,C0176,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,7,110000,0.00,74000,770000,518000,252000
+V01049,2026-06-23,C0106,Luque,Luque,Tienda física,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V01050,2026-06-24,C0165,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,7,35500,0.00,18500,248500,129500,119000
+V01051,2026-06-25,C0105,Encarnación,Encarnación,Online,OFI-003,Cuaderno universitario,Oficina,5,24000,0.00,11200,120000,56000,64000
+V01052,2026-06-25,C0067,Encarnación,Encarnación,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.20,11200,134400,78400,56000
+V01053,2026-06-26,C0046,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.00,123000,1560000,984000,576000
+V01054,2026-06-27,C0107,Asunción Centro,Asunción,Online,TEC-002,Teclado mecánico,Tecnología,8,280000,0.00,205000,2240000,1640000,600000
+V01055,2026-06-28,C0030,Encarnación,Encarnación,Tienda física,HOG-001,Lámpara de escritorio,Hogar,3,125000,0.00,79000,375000,237000,138000
+V01056,2026-06-29,C0204,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.00,18500,106500,55500,51000
+V01057,2026-06-30,C0050,Encarnación,Encarnación,Online,OFI-003,Cuaderno universitario,Oficina,4,24000,0.10,11200,86400,44800,41600
+V01058,2026-07-01,C0208,Asunción Centro,Asunción,Online,TEC-002,Teclado mecánico,Tecnología,6,280000,0.00,205000,1680000,1230000,450000
+V01059,2026-07-01,C0120,Asunción Centro,Asunción,WhatsApp,HOG-002,Organizador multiuso,Hogar,6,64000,0.00,31500,384000,189000,195000
+V01060,2026-07-02,C0115,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V01061,2026-07-03,C0025,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,1,110000,0.10,74000,99000,74000,25000
+V01062,2026-07-04,C0044,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.00,166000,245000,166000,79000
+V01063,2026-07-05,C0193,Asunción Centro,Asunción,Online,TEC-004,Webcam HD,Tecnología,7,245000,0.00,166000,1715000,1162000,553000
+V01064,2026-07-06,C0186,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.05,74000,522500,370000,152500
+V01065,2026-07-07,C0124,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,7,68000,0.00,36500,476000,255500,220500
+V01066,2026-07-07,C0164,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.00,74000,550000,370000,180000
+V01067,2026-07-08,C0201,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.15,31500,217600,126000,91600
+V01068,2026-07-09,C0102,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.00,79000,750000,474000,276000
+V01069,2026-07-10,C0105,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,4,19000,0.05,9000,72200,36000,36200
+V01070,2026-07-11,C0031,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,3,280000,0.05,205000,798000,615000,183000
+V01071,2026-07-12,C0068,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,8,68000,0.10,36500,489600,292000,197600
+V01072,2026-07-13,C0137,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.00,36500,68000,36500,31500
+V01073,2026-07-13,C0113,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-002,Organizador multiuso,Hogar,4,64000,0.00,31500,256000,126000,130000
+V01074,2026-07-14,C0167,Asunción Centro,Asunción,Tienda física,HOG-001,Lámpara de escritorio,Hogar,2,125000,0.10,79000,225000,158000,67000
+V01075,2026-07-15,C0075,Luque,Luque,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.00,18500,142000,74000,68000
+V01076,2026-07-16,C0164,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,3,280000,0.20,205000,672000,615000,57000
+V01077,2026-07-17,C0121,Asunción Centro,Asunción,WhatsApp,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V01078,2026-07-18,C0053,Encarnación,Encarnación,Online,TEC-005,Memoria USB 64 GB,Tecnología,7,68000,0.15,36500,404600,255500,149100
+V01079,2026-07-19,C0092,Ciudad del Este,Ciudad del Este,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.00,74000,880000,592000,288000
+V01080,2026-07-20,C0089,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,8,42000,0.00,25800,336000,206400,129600
+V01081,2026-07-20,C0059,Asunción Centro,Asunción,Online,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.30,55500,297500,277500,20000
+V01082,2026-07-21,C0020,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,6,280000,0.05,205000,1596000,1230000,366000
+V01083,2026-07-22,C0176,Asunción Centro,Asunción,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.00,205000,1120000,820000,300000
+V01084,2026-07-23,C0046,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.10,166000,661500,498000,163500
+V01085,2026-07-24,C0136,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,1,35500,0.15,18500,30175,18500,11675
+V01086,2026-07-25,C0078,Encarnación,Encarnación,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,4,195000,0.00,123000,780000,492000,288000
+V01087,2026-07-26,C0152,Encarnación,Encarnación,WhatsApp,OFI-003,Cuaderno universitario,Oficina,3,24000,0.00,11200,72000,33600,38400
+V01088,2026-07-26,C0137,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,2,195000,0.00,123000,390000,246000,144000
+V01089,2026-07-27,C0147,Luque,Luque,Online,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V01090,2026-07-28,C0195,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,1,280000,0.00,205000,280000,205000,75000
+V01091,2026-07-29,C0135,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,3,64000,0.05,31500,182400,94500,87900
+V01092,2026-07-30,C0130,Ciudad del Este,Ciudad del Este,Online,OFI-003,Cuaderno universitario,Oficina,1,24000,0.00,11200,24000,11200,12800
+V01093,2026-07-31,C0027,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,7,24000,0.00,11200,168000,78400,89600
+V01094,2026-08-01,C0018,Encarnación,Encarnación,Tienda física,OFI-004,Carpeta archivadora,Oficina,2,19000,0.20,9000,30400,18000,12400
+V01095,2026-08-01,C0112,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.15,25800,142800,103200,39600
+V01096,2026-08-02,C0140,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-001,Resma papel A4,Oficina,3,42000,0.00,25800,126000,77400,48600
+V01097,2026-08-03,C0094,Ciudad del Este,Ciudad del Este,Online,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.20,74000,176000,148000,28000
+V01098,2026-08-04,C0039,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.00,123000,1365000,861000,504000
+V01099,2026-08-05,C0031,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,5,85000,0.05,55500,403750,277500,126250
+V01100,2026-08-06,C0171,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,5,245000,0.00,166000,1225000,830000,395000
+V01101,2026-08-07,C0165,San Lorenzo,San Lorenzo,Tienda física,OFI-001,Resma papel A4,Oficina,1,42000,0.00,25800,42000,25800,16200
+V01102,2026-08-07,C0157,San Lorenzo,San Lorenzo,Online,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.15,79000,850000,632000,218000
+V01103,2026-08-08,C0202,Asunción Centro,Asunción,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.15,25800,142800,103200,39600
+V01104,2026-08-09,C0160,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.05,79000,831250,553000,278250
+V01105,2026-08-10,C0130,Encarnación,Encarnación,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,5,35500,0.00,18500,177500,92500,85000
+V01106,2026-08-11,C0029,Asunción Centro,Asunción,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.10,123000,1053000,738000,315000
+V01107,2026-08-12,C0035,Encarnación,Encarnación,Online,HOG-001,Lámpara de escritorio,Hogar,5,125000,0.00,79000,625000,395000,230000
+V01108,2026-08-13,C0154,San Lorenzo,San Lorenzo,Online,OFI-004,Carpeta archivadora,Oficina,8,19000,0.05,9000,144400,72000,72400
+V01109,2026-08-14,C0007,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.10,36500,367200,219000,148200
+V01110,2026-08-14,C0154,San Lorenzo,San Lorenzo,Online,OFI-001,Resma papel A4,Oficina,6,42000,0.05,25800,239400,154800,84600
+V01111,2026-08-15,C0181,San Lorenzo,San Lorenzo,WhatsApp,HOG-001,Lámpara de escritorio,Hogar,6,125000,0.00,79000,750000,474000,276000
+V01112,2026-08-16,C0101,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.00,18500,142000,74000,68000
+V01113,2026-08-17,C0101,San Lorenzo,San Lorenzo,Tienda física,TEC-002,Teclado mecánico,Tecnología,1,280000,0.00,205000,280000,205000,75000
+V01114,2026-08-18,C0045,Luque,Luque,Online,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.00,74000,440000,296000,144000
+V01115,2026-08-19,C0001,Asunción Centro,Asunción,Online,HOG-001,Lámpara de escritorio,Hogar,1,125000,0.30,79000,87500,79000,8500
+V01116,2026-08-20,C0191,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,5,64000,0.00,31500,320000,157500,162500
+V01117,2026-08-20,C0121,Ciudad del Este,Ciudad del Este,Online,OFI-002,Bolígrafos caja x12,Oficina,2,35500,0.10,18500,63900,37000,26900
+V01118,2026-08-21,C0161,Luque,Luque,Online,OFI-003,Cuaderno universitario,Oficina,3,24000,0.20,11200,57600,33600,24000
+V01119,2026-08-22,C0162,Luque,Luque,Online,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.15,55500,289000,222000,67000
+V01120,2026-08-23,C0176,Luque,Luque,WhatsApp,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.00,123000,1365000,861000,504000
+V01121,2026-08-24,C0064,Asunción Centro,Asunción,Online,OFI-003,Cuaderno universitario,Oficina,1,24000,0.15,11200,20400,11200,9200
+V01122,2026-08-25,C0188,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,2,42000,0.05,25800,79800,51600,28200
+V01123,2026-08-26,C0157,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.00,36500,408000,219000,189000
+V01124,2026-08-26,C0205,Asunción Centro,Asunción,Online,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.20,36500,326400,219000,107400
+V01125,2026-08-27,C0013,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,7,195000,0.20,123000,1092000,861000,231000
+V01126,2026-08-28,C0155,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,7,19000,0.00,9000,133000,63000,70000
+V01127,2026-08-29,C0071,Asunción Centro,Asunción,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.10,18500,127800,74000,53800
+V01128,2026-08-30,C0174,Encarnación,Encarnación,Tienda física,OFI-001,Resma papel A4,Oficina,4,42000,0.00,25800,168000,103200,64800
+V01129,2026-08-31,C0034,San Lorenzo,San Lorenzo,Tienda física,HOG-002,Organizador multiuso,Hogar,2,64000,0.20,31500,102400,63000,39400
+V01130,2026-09-01,C0131,Ciudad del Este,Ciudad del Este,Tienda física,HOG-002,Organizador multiuso,Hogar,3,64000,0.00,31500,192000,94500,97500
+V01131,2026-09-01,C0081,Ciudad del Este,Ciudad del Este,Online,TEC-004,Webcam HD,Tecnología,7,245000,0.05,166000,1629250,1162000,467250
+V01132,2026-09-02,C0081,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.10,18500,127800,74000,53800
+V01133,2026-09-03,C0004,San Lorenzo,San Lorenzo,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,1,68000,0.10,36500,61200,36500,24700
+V01134,2026-09-04,C0082,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.15,18500,90525,55500,35025
+V01135,2026-09-05,C0006,Asunción Centro,Asunción,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,8,85000,0.10,55500,612000,444000,168000
+V01136,2026-09-06,C0205,Asunción Centro,Asunción,Online,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.05,74000,418000,296000,122000
+V01137,2026-09-07,C0043,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.10,25800,226800,154800,72000
+V01138,2026-09-08,C0029,Luque,Luque,Online,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.05,74000,418000,296000,122000
+V01139,2026-09-08,C0041,San Lorenzo,San Lorenzo,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.00,55500,340000,222000,118000
+V01140,2026-09-09,C0125,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,3,24000,0.20,11200,57600,33600,24000
+V01141,2026-09-10,C0040,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,2,110000,0.00,74000,220000,148000,72000
+V01142,2026-09-11,C0074,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,8,110000,0.30,74000,616000,592000,24000
+V01143,2026-09-12,C0057,Asunción Centro,Asunción,Tienda física,TEC-004,Webcam HD,Tecnología,8,245000,0.05,166000,1862000,1328000,534000
+V01144,2026-09-13,C0175,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-004,Webcam HD,Tecnología,2,245000,0.05,166000,465500,332000,133500
+V01145,2026-09-14,C0143,Ciudad del Este,Ciudad del Este,WhatsApp,OFI-001,Resma papel A4,Oficina,5,42000,0.15,25800,178500,129000,49500
+V01146,2026-09-14,C0085,San Lorenzo,San Lorenzo,Online,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V01147,2026-09-15,C0097,Asunción Centro,Asunción,Tienda física,OFI-003,Cuaderno universitario,Oficina,3,24000,0.00,11200,72000,33600,38400
+V01148,2026-09-16,C0031,Ciudad del Este,Ciudad del Este,WhatsApp,TEC-004,Webcam HD,Tecnología,2,245000,0.00,166000,490000,332000,158000
+V01149,2026-09-17,C0021,Encarnación,Encarnación,Online,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.00,36500,136000,73000,63000
+V01150,2026-09-18,C0046,Luque,Luque,Tienda física,TEC-004,Webcam HD,Tecnología,3,245000,0.05,166000,698250,498000,200250
+V01151,2026-09-19,C0163,Luque,Luque,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.00,9000,57000,27000,30000
+V01152,2026-09-20,C0198,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,2,245000,0.10,166000,441000,332000,109000
+V01153,2026-09-20,C0141,Ciudad del Este,Ciudad del Este,Tienda física,TEC-003,Auriculares Bluetooth,Tecnología,6,195000,0.00,123000,1170000,738000,432000
+V01154,2026-09-21,C0016,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.05,36500,387600,219000,168600
+V01155,2026-09-22,C0018,San Lorenzo,San Lorenzo,Tienda física,OFI-003,Cuaderno universitario,Oficina,4,24000,0.00,11200,96000,44800,51200
+V01156,2026-09-23,C0111,San Lorenzo,San Lorenzo,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.00,79000,875000,553000,322000
+V01157,2026-09-24,C0002,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,8,280000,0.10,205000,2016000,1640000,376000
+V01158,2026-09-25,C0015,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,2,68000,0.00,36500,136000,73000,63000
+V01159,2026-09-26,C0086,San Lorenzo,San Lorenzo,WhatsApp,OFI-003,Cuaderno universitario,Oficina,7,24000,0.00,11200,168000,78400,89600
+V01160,2026-09-27,C0032,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,7,42000,0.15,25800,249900,180600,69300
+V01161,2026-09-27,C0134,Asunción Centro,Asunción,Tienda física,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.00,74000,660000,444000,216000
+V01162,2026-09-28,C0060,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,7,42000,0.00,25800,294000,180600,113400
+V01163,2026-09-29,C0179,Ciudad del Este,Ciudad del Este,Tienda física,TEC-002,Teclado mecánico,Tecnología,4,280000,0.05,205000,1064000,820000,244000
+V01164,2026-09-30,C0157,Asunción Centro,Asunción,WhatsApp,OFI-004,Carpeta archivadora,Oficina,4,19000,0.30,9000,53200,36000,17200
+V01165,2026-10-01,C0044,Ciudad del Este,Ciudad del Este,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,4,35500,0.05,18500,134900,74000,60900
+V01166,2026-10-02,C0064,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,6,64000,0.10,31500,345600,189000,156600
+V01167,2026-10-03,C0009,Encarnación,Encarnación,Tienda física,TEC-002,Teclado mecánico,Tecnología,6,280000,0.20,205000,1344000,1230000,114000
+V01168,2026-10-03,C0071,San Lorenzo,San Lorenzo,Tienda física,TEC-004,Webcam HD,Tecnología,1,245000,0.15,166000,208250,166000,42250
+V01169,2026-10-04,C0106,Ciudad del Este,Ciudad del Este,Tienda física,OFI-004,Carpeta archivadora,Oficina,8,19000,0.00,9000,152000,72000,80000
+V01170,2026-10-05,C0156,Luque,Luque,Tienda física,OFI-001,Resma papel A4,Oficina,6,42000,0.15,25800,214200,154800,59400
+V01171,2026-10-06,C0159,San Lorenzo,San Lorenzo,Online,OFI-001,Resma papel A4,Oficina,4,42000,0.00,25800,168000,103200,64800
+V01172,2026-10-07,C0168,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.20,36500,326400,219000,107400
+V01173,2026-10-08,C0085,Ciudad del Este,Ciudad del Este,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,4,110000,0.15,74000,374000,296000,78000
+V01174,2026-10-09,C0002,Asunción Centro,Asunción,Online,TEC-003,Auriculares Bluetooth,Tecnología,8,195000,0.15,123000,1326000,984000,342000
+V01175,2026-10-09,C0082,Luque,Luque,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.00,31500,256000,126000,130000
+V01176,2026-10-10,C0138,Luque,Luque,Online,HOG-001,Lámpara de escritorio,Hogar,1,125000,0.00,79000,125000,79000,46000
+V01177,2026-10-11,C0017,Luque,Luque,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,6,68000,0.20,36500,326400,219000,107400
+V01178,2026-10-12,C0209,Luque,Luque,Online,OFI-003,Cuaderno universitario,Oficina,3,24000,0.00,11200,72000,33600,38400
+V01179,2026-10-13,C0150,Encarnación,Encarnación,WhatsApp,OFI-001,Resma papel A4,Oficina,4,42000,0.20,25800,134400,103200,31200
+V01180,2026-10-14,C0162,Ciudad del Este,Ciudad del Este,Tienda física,TEC-001,Mouse inalámbrico,Tecnología,4,85000,0.00,55500,340000,222000,118000
+V01181,2026-10-15,C0203,San Lorenzo,San Lorenzo,WhatsApp,OFI-001,Resma papel A4,Oficina,4,42000,0.15,25800,142800,103200,39600
+V01182,2026-10-15,C0142,Ciudad del Este,Ciudad del Este,Tienda física,OFI-001,Resma papel A4,Oficina,2,42000,0.10,25800,75600,51600,24000
+V01183,2026-10-16,C0134,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,8,64000,0.00,31500,512000,252000,260000
+V01184,2026-10-17,C0190,Ciudad del Este,Ciudad del Este,Tienda física,TEC-004,Webcam HD,Tecnología,7,245000,0.15,166000,1457750,1162000,295750
+V01185,2026-10-18,C0031,Luque,Luque,Online,OFI-004,Carpeta archivadora,Oficina,5,19000,0.10,9000,85500,45000,40500
+V01186,2026-10-19,C0107,Luque,Luque,Tienda física,HOG-001,Lámpara de escritorio,Hogar,7,125000,0.10,79000,787500,553000,234500
+V01187,2026-10-20,C0150,Encarnación,Encarnación,Tienda física,HOG-002,Organizador multiuso,Hogar,4,64000,0.10,31500,230400,126000,104400
+V01188,2026-10-21,C0041,Encarnación,Encarnación,WhatsApp,HOG-003,Botella térmica 750ml,Hogar,6,110000,0.10,74000,594000,444000,150000
+V01189,2026-10-22,C0136,Asunción Centro,Asunción,WhatsApp,HOG-002,Organizador multiuso,Hogar,6,64000,0.00,31500,384000,189000,195000
+V01190,2026-10-22,C0076,Asunción Centro,Asunción,Online,HOG-003,Botella térmica 750ml,Hogar,5,110000,0.00,74000,550000,370000,180000
+V01191,2026-10-23,C0169,Asunción Centro,Asunción,WhatsApp,TEC-002,Teclado mecánico,Tecnología,7,280000,0.00,205000,1960000,1435000,525000
+V01192,2026-10-24,C0025,San Lorenzo,San Lorenzo,Tienda física,HOG-003,Botella térmica 750ml,Hogar,3,110000,0.05,74000,313500,222000,91500
+V01193,2026-10-25,C0013,Luque,Luque,Tienda física,OFI-003,Cuaderno universitario,Oficina,1,24000,0.00,11200,24000,11200,12800
+V01194,2026-10-26,C0103,Luque,Luque,Online,HOG-002,Organizador multiuso,Hogar,8,64000,0.05,31500,486400,252000,234400
+V01195,2026-10-27,C0102,Ciudad del Este,Ciudad del Este,Tienda física,HOG-001,Lámpara de escritorio,Hogar,8,125000,0.00,79000,1000000,632000,368000
+V01196,2026-10-28,C0100,San Lorenzo,San Lorenzo,Tienda física,OFI-002,Bolígrafos caja x12,Oficina,3,35500,0.05,18500,101175,55500,45675
+V01197,2026-10-28,C0190,Luque,Luque,Online,TEC-004,Webcam HD,Tecnología,7,245000,0.05,166000,1629250,1162000,467250
+V01198,2026-10-29,C0155,Asunción Centro,Asunción,Tienda física,OFI-004,Carpeta archivadora,Oficina,3,19000,0.00,9000,57000,27000,30000
+V01199,2026-10-30,C0013,Asunción Centro,Asunción,Tienda física,HOG-002,Organizador multiuso,Hogar,8,64000,0.20,31500,409600,252000,157600
+V01200,2026-10-31,C0201,Encarnación,Encarnación,Tienda física,TEC-005,Memoria USB 64 GB,Tecnología,4,68000,0.20,36500,217600,146000,71600
